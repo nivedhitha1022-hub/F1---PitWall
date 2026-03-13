@@ -1,0 +1,803 @@
+🏎  Subscribers — Cleaned & Transformed,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17
+Rows: 800   |   Cols: 18   |   Cleaned & Transformed — PitWall Analytics,,,,,,,,,,,,,,,,,
+Subscriber Id,Signup Date,Cohort Month,Plan,Monthly Price Usd,Region,Age,Age Group,Acquisition Channel,Churned,Churn Date,Churn Reason,Tenure Months,Renewal Count,Lifetime Revenue Usd,Nps Score,Nps Category,Plan Upgrade
+SUB0001,2024-10-16 00:00:00,2024-10,Pit Lane,9.99,Latin America,22,18-24,Organic,Yes,2024-12-02 00:00:00,Lack of Content,1.5,0,14.98,7,Passive,No
+SUB0002,2023-08-17 00:00:00,2023-08,Pit Lane,9.99,UAE,43,35-44,Social Media,Yes,2023-11-07 00:00:00,Technical Issues,2.7,1,26.97,7,Passive,No
+SUB0003,2023-03-31 00:00:00,2023-03,Pit Lane,9.99,Latin America,26,25-34,Social Media,No,,Not Churned,21.1,20,210.79,5,Detractor,Yes
+SUB0004,2023-04-06 00:00:00,2023-04,Pit Lane,9.99,Europe,18,18-24,Organic,Yes,2024-10-04 00:00:00,Technical Issues,18,17,179.82,5,Detractor,No
+SUB0005,2023-01-28 00:00:00,2023-01,Podium,19.99,Europe,25,25-34,Paid Ad,No,,Not Churned,23.1,22,461.77,3,Detractor,No
+SUB0006,2024-07-12 00:00:00,2024-07,Podium,19.99,Europe,26,25-34,Organic,No,,Not Churned,5.7,4,113.94,7,Passive,No
+SUB0007,2023-10-12 00:00:00,2023-10,Podium,19.99,Europe,26,25-34,Paid Ad,No,,Not Churned,14.7,13,293.85,8,Passive,Yes
+SUB0008,2023-06-13 00:00:00,2023-06,Pit Lane,9.99,USA,30,25-34,Referral,No,,Not Churned,18.6,17,185.81,4,Detractor,No
+SUB0009,2023-06-09 00:00:00,2023-06,Pit Lane,9.99,Middle East,20,18-24,Paid Ad,Yes,2024-06-17 00:00:00,Too Expensive,12.3,11,122.88,8,Passive,No
+SUB0010,2023-04-05 00:00:00,2023-04,Podium,19.99,USA,36,35-44,Paid Ad,No,,Not Churned,20.9,20,417.79,7,Passive,No
+SUB0011,2023-12-19 00:00:00,2023-12,Pit Lane,9.99,Europe,22,18-24,Paid Ad,No,,Not Churned,12.4,11,123.88,3,Detractor,No
+SUB0012,2024-04-15 00:00:00,2024-04,Pit Lane,9.99,Asia,33,25-34,Referral,No,,Not Churned,8.5,7,84.92,3,Detractor,No
+SUB0013,2024-01-23 00:00:00,2024-01,Pit Lane,9.99,Asia,35,35-44,Paid Ad,Yes,2024-07-21 00:00:00,Technical Issues,5.9,5,58.94,8,Passive,No
+SUB0014,2024-01-06 00:00:00,2024-01,Podium,19.99,Asia,24,18-24,Paid Ad,No,,Not Churned,11.8,11,235.88,6,Detractor,No
+SUB0015,2023-02-16 00:00:00,2023-02,Paddock Club,39.99,USA,29,25-34,Referral,No,,Not Churned,22.5,21,899.78,7,Passive,No
+SUB0016,2023-03-23 00:00:00,2023-03,Pit Lane,9.99,Asia,30,25-34,Organic,No,,Not Churned,21.3,20,212.79,8,Passive,No
+SUB0017,2024-01-25 00:00:00,2024-01,Pit Lane,9.99,USA,42,35-44,Social Media,Yes,2024-08-28 00:00:00,Lack of Content,7.1,6,70.93,7,Passive,No
+SUB0018,2024-01-15 00:00:00,2024-01,Pit Lane,9.99,USA,31,25-34,Referral,No,,Not Churned,11.5,10,114.88,5,Detractor,No
+SUB0019,2024-11-30 00:00:00,2024-11,Pit Lane,9.99,USA,26,25-34,Social Media,No,,Not Churned,1,0,9.99,3,Detractor,No
+SUB0020,2023-06-25 00:00:00,2023-06,Podium,19.99,Europe,24,18-24,Paid Ad,No,,Not Churned,18.2,17,363.82,6,Detractor,No
+SUB0021,2024-04-18 00:00:00,2024-04,Paddock Club,39.99,Asia,33,25-34,Organic,No,,Not Churned,8.4,7,335.92,8,Passive,No
+SUB0022,2024-10-17 00:00:00,2024-10,Pit Lane,9.99,Asia,25,25-34,Organic,No,,Not Churned,2.5,1,24.98,5,Detractor,No
+SUB0023,2023-11-29 00:00:00,2023-11,Pit Lane,9.99,Europe,18,18-24,Social Media,No,,Not Churned,13.1,12,130.87,7,Passive,No
+SUB0024,2023-08-23 00:00:00,2023-08,Pit Lane,9.99,UAE,29,25-34,Referral,No,,Not Churned,16.3,15,162.84,7,Passive,No
+SUB0025,2024-02-15 00:00:00,2024-02,Podium,19.99,USA,30,25-34,Referral,No,,Not Churned,10.5,9,209.9,4,Detractor,No
+SUB0026,2024-08-03 00:00:00,2024-08,Pit Lane,9.99,Europe,31,25-34,Paid Ad,No,,Not Churned,4.9,4,48.95,10,Promoter,No
+SUB0027,2024-11-02 00:00:00,2024-11,Pit Lane,9.99,Europe,26,25-34,Social Media,No,,Not Churned,1.9,0,18.98,5,Detractor,No
+SUB0028,2024-10-20 00:00:00,2024-10,Pit Lane,9.99,Latin America,40,35-44,Paid Ad,No,,Not Churned,2.4,1,23.98,7,Passive,No
+SUB0029,2023-09-10 00:00:00,2023-09,Pit Lane,9.99,Asia,42,35-44,Referral,No,,Not Churned,15.7,14,156.84,9,Promoter,No
+SUB0030,2024-08-21 00:00:00,2024-08,Podium,19.99,UAE,23,18-24,Social Media,No,,Not Churned,4.3,3,85.96,6,Detractor,No
+SUB0031,2024-01-06 00:00:00,2024-01,Pit Lane,9.99,USA,31,25-34,Organic,Yes,2024-04-15 00:00:00,Technical Issues,3.3,2,32.97,5,Detractor,No
+SUB0032,2024-05-20 00:00:00,2024-05,Pit Lane,9.99,USA,23,18-24,Paid Ad,Yes,2024-07-01 00:00:00,Too Expensive,1.4,0,13.99,9,Promoter,No
+SUB0033,2023-06-06 00:00:00,2023-06,Paddock Club,39.99,Europe,28,25-34,Referral,No,,Not Churned,18.9,18,755.81,9,Promoter,No
+SUB0034,2024-03-08 00:00:00,2024-03,Podium,19.99,Asia,18,18-24,Organic,No,,Not Churned,9.8,8,195.9,7,Passive,No
+SUB0035,2024-09-02 00:00:00,2024-09,Pit Lane,9.99,Asia,19,18-24,Social Media,No,,Not Churned,3.9,3,38.96,8,Passive,No
+SUB0036,2024-07-20 00:00:00,2024-07,Pit Lane,9.99,Asia,33,25-34,Social Media,No,,Not Churned,5.4,4,53.95,7,Passive,Yes
+SUB0037,2023-04-28 00:00:00,2023-04,Podium,19.99,UAE,32,25-34,Paid Ad,No,,Not Churned,20.1,19,401.8,8,Passive,No
+SUB0038,2023-10-01 00:00:00,2023-10,Pit Lane,9.99,UAE,45,45-54,Organic,No,,Not Churned,15,14,149.85,7,Passive,No
+SUB0039,2023-10-28 00:00:00,2023-10,Podium,19.99,Europe,24,18-24,Organic,No,,Not Churned,14.1,13,281.86,5,Detractor,No
+SUB0040,2023-09-27 00:00:00,2023-09,Podium,19.99,USA,37,35-44,Social Media,No,,Not Churned,15.1,14,301.85,10,Promoter,No
+SUB0041,2024-06-03 00:00:00,2024-06,Pit Lane,9.99,Europe,38,35-44,Paid Ad,No,,Not Churned,6.9,6,68.93,6,Detractor,No
+SUB0042,2023-11-02 00:00:00,2023-11,Podium,19.99,Asia,28,25-34,Organic,No,,Not Churned,14,13,279.86,10,Promoter,No
+SUB0043,2023-07-23 00:00:00,2023-07,Pit Lane,9.99,Asia,31,25-34,Paid Ad,Yes,2024-09-15 00:00:00,Lack of Content,13.8,13,137.86,6,Detractor,No
+SUB0044,2024-07-06 00:00:00,2024-07,Pit Lane,9.99,Middle East,29,25-34,Social Media,No,,Not Churned,5.8,4,57.94,7,Passive,No
+SUB0045,2023-01-01 00:00:00,2023-01,Pit Lane,9.99,Middle East,27,25-34,Referral,No,,Not Churned,24,23,239.76,7,Passive,No
+SUB0046,2023-04-25 00:00:00,2023-04,Pit Lane,9.99,Asia,32,25-34,Referral,No,,Not Churned,20.2,19,201.8,4,Detractor,No
+SUB0047,2023-11-11 00:00:00,2023-11,Paddock Club,39.99,USA,32,25-34,Organic,No,,Not Churned,13.7,12,547.86,6,Detractor,No
+SUB0048,2024-08-03 00:00:00,2024-08,Paddock Club,39.99,Europe,33,25-34,Organic,No,,Not Churned,4.9,4,195.95,9,Promoter,No
+SUB0049,2024-05-12 00:00:00,2024-05,Podium,19.99,USA,38,35-44,Referral,No,,Not Churned,7.7,6,153.92,6,Detractor,No
+SUB0050,2024-06-29 00:00:00,2024-06,Podium,19.99,Asia,35,35-44,Social Media,No,,Not Churned,6.1,5,121.94,10,Promoter,No
+SUB0051,2024-05-01 00:00:00,2024-05,Podium,19.99,USA,32,25-34,Organic,No,,Not Churned,8,7,159.92,7,Passive,No
+SUB0052,2024-06-24 00:00:00,2024-06,Pit Lane,9.99,Europe,27,25-34,Paid Ad,No,,Not Churned,6.2,5,61.94,6,Detractor,No
+SUB0053,2023-08-05 00:00:00,2023-08,Pit Lane,9.99,USA,27,25-34,Paid Ad,No,,Not Churned,16.9,16,168.83,6,Detractor,No
+SUB0054,2023-07-25 00:00:00,2023-07,Pit Lane,9.99,Asia,31,25-34,Referral,No,,Not Churned,17.2,16,171.83,4,Detractor,No
+SUB0055,2024-11-18 00:00:00,2024-11,Podium,19.99,Europe,50,45-54,Organic,No,,Not Churned,1.4,0,27.99,10,Promoter,No
+SUB0056,2024-06-13 00:00:00,2024-06,Podium,19.99,Asia,18,18-24,Social Media,No,,Not Churned,6.6,5,131.93,7,Passive,No
+SUB0057,2023-03-07 00:00:00,2023-03,Podium,19.99,Europe,24,18-24,Referral,No,,Not Churned,21.8,21,435.78,10,Promoter,No
+SUB0058,2023-08-24 00:00:00,2023-08,Pit Lane,9.99,Europe,45,45-54,Paid Ad,No,,Not Churned,16.3,15,162.84,7,Passive,Yes
+SUB0059,2024-10-08 00:00:00,2024-10,Podium,19.99,Europe,34,25-34,Social Media,Yes,2024-11-11 00:00:00,Too Expensive,1.1,0,21.99,10,Promoter,No
+SUB0060,2023-12-05 00:00:00,2023-12,Podium,19.99,Europe,41,35-44,Paid Ad,Yes,2024-05-04 00:00:00,Found Alternative,5,4,99.95,5,Detractor,No
+SUB0061,2024-11-16 00:00:00,2024-11,Pit Lane,9.99,UAE,29,25-34,Paid Ad,No,,Not Churned,1.5,0,14.98,9,Promoter,No
+SUB0062,2024-08-07 00:00:00,2024-08,Pit Lane,9.99,USA,28,25-34,Referral,No,,Not Churned,4.8,3,47.95,4,Detractor,No
+SUB0063,2024-04-29 00:00:00,2024-04,Pit Lane,9.99,USA,29,25-34,Organic,No,,Not Churned,8.1,7,80.92,5,Detractor,No
+SUB0064,2023-04-10 00:00:00,2023-04,Podium,19.99,USA,23,18-24,Social Media,No,,Not Churned,20.7,20,413.79,8,Passive,No
+SUB0065,2024-02-25 00:00:00,2024-02,Pit Lane,9.99,USA,36,35-44,Paid Ad,No,,Not Churned,10.2,9,101.9,6,Detractor,No
+SUB0066,2024-11-20 00:00:00,2024-11,Podium,19.99,Europe,48,45-54,Organic,No,,Not Churned,1.3,0,25.99,3,Detractor,No
+SUB0067,2023-03-04 00:00:00,2023-03,Paddock Club,39.99,Europe,27,25-34,Social Media,No,,Not Churned,21.9,21,875.78,8,Passive,No
+SUB0068,2023-04-22 00:00:00,2023-04,Pit Lane,9.99,Asia,26,25-34,Paid Ad,Yes,2023-12-02 00:00:00,Technical Issues,7.4,6,73.93,8,Passive,No
+SUB0069,2024-04-04 00:00:00,2024-04,Pit Lane,9.99,USA,33,25-34,Organic,Yes,2024-06-19 00:00:00,Found Alternative,2.5,1,24.98,7,Passive,No
+SUB0070,2024-04-18 00:00:00,2024-04,Podium,19.99,Europe,36,35-44,Paid Ad,Yes,2024-06-06 00:00:00,No Time,1.6,0,31.98,8,Passive,No
+SUB0071,2024-07-17 00:00:00,2024-07,Paddock Club,39.99,Europe,25,25-34,Referral,Yes,2024-08-19 00:00:00,Too Expensive,1.1,0,43.99,10,Promoter,No
+SUB0072,2023-08-31 00:00:00,2023-08,Paddock Club,39.99,Asia,37,35-44,Referral,No,,Not Churned,16,15,639.84,9,Promoter,No
+SUB0073,2023-08-07 00:00:00,2023-08,Pit Lane,9.99,Middle East,26,25-34,Organic,No,,Not Churned,16.8,16,167.83,8,Passive,No
+SUB0074,2023-06-18 00:00:00,2023-06,Paddock Club,39.99,Europe,33,25-34,Paid Ad,No,,Not Churned,18.5,17,739.82,7,Passive,No
+SUB0075,2023-09-29 00:00:00,2023-09,Paddock Club,39.99,USA,18,18-24,Organic,No,,Not Churned,15.1,14,603.85,7,Passive,No
+SUB0076,2023-10-20 00:00:00,2023-10,Pit Lane,9.99,USA,35,35-44,Social Media,No,,Not Churned,14.4,13,143.86,7,Passive,No
+SUB0077,2024-07-23 00:00:00,2024-07,Pit Lane,9.99,USA,18,18-24,Paid Ad,No,,Not Churned,5.3,4,52.95,9,Promoter,No
+SUB0078,2023-07-14 00:00:00,2023-07,Paddock Club,39.99,Europe,34,25-34,Paid Ad,No,,Not Churned,17.6,16,703.82,6,Detractor,No
+SUB0079,2024-08-16 00:00:00,2024-08,Podium,19.99,UAE,27,25-34,Paid Ad,No,,Not Churned,4.5,3,89.96,7,Passive,Yes
+SUB0080,2023-11-18 00:00:00,2023-11,Podium,19.99,USA,19,18-24,Paid Ad,Yes,2024-10-12 00:00:00,No Time,10.8,9,215.89,4,Detractor,No
+SUB0081,2024-05-29 00:00:00,2024-05,Podium,19.99,Middle East,25,25-34,Social Media,No,,Not Churned,7.1,6,141.93,9,Promoter,No
+SUB0082,2023-02-28 00:00:00,2023-02,Pit Lane,9.99,Asia,37,35-44,Organic,No,,Not Churned,22.1,21,220.78,6,Detractor,Yes
+SUB0083,2023-07-10 00:00:00,2023-07,Pit Lane,9.99,USA,25,25-34,Paid Ad,Yes,2023-09-12 00:00:00,Lack of Content,2.1,1,20.98,6,Detractor,No
+SUB0084,2024-02-18 00:00:00,2024-02,Pit Lane,9.99,UAE,35,35-44,Organic,Yes,2024-07-23 00:00:00,Technical Issues,5.1,4,50.95,9,Promoter,No
+SUB0085,2024-08-31 00:00:00,2024-08,Paddock Club,39.99,Europe,28,25-34,Paid Ad,Yes,2024-10-10 00:00:00,No Time,1.3,0,51.99,8,Passive,No
+SUB0086,2024-11-04 00:00:00,2024-11,Paddock Club,39.99,UAE,32,25-34,Social Media,No,,Not Churned,1.9,0,75.98,8,Passive,No
+SUB0087,2023-09-25 00:00:00,2023-09,Pit Lane,9.99,USA,49,45-54,Social Media,Yes,2024-10-25 00:00:00,Found Alternative,13,12,129.87,7,Passive,No
+SUB0088,2023-09-02 00:00:00,2023-09,Podium,19.99,USA,37,35-44,Organic,No,,Not Churned,16,15,319.84,7,Passive,No
+SUB0089,2024-10-22 00:00:00,2024-10,Pit Lane,9.99,Europe,30,25-34,Social Media,Yes,2024-12-11 00:00:00,Too Expensive,1.6,0,15.98,8,Passive,No
+SUB0090,2023-01-10 00:00:00,2023-01,Podium,19.99,Europe,18,18-24,Paid Ad,No,,Not Churned,23.7,23,473.76,6,Detractor,No
+SUB0091,2023-04-13 00:00:00,2023-04,Podium,19.99,UAE,18,18-24,Social Media,Yes,2023-12-17 00:00:00,Technical Issues,8.1,7,161.92,7,Passive,No
+SUB0092,2023-09-29 00:00:00,2023-09,Podium,19.99,USA,20,18-24,Paid Ad,Yes,2024-04-24 00:00:00,Too Expensive,6.8,5,135.93,10,Promoter,No
+SUB0093,2023-09-08 00:00:00,2023-09,Paddock Club,39.99,Asia,30,25-34,Paid Ad,No,,Not Churned,15.8,15,631.84,7,Passive,No
+SUB0094,2024-07-10 00:00:00,2024-07,Podium,19.99,Latin America,18,18-24,Paid Ad,No,,Not Churned,5.7,4,113.94,9,Promoter,No
+SUB0095,2024-10-31 00:00:00,2024-10,Paddock Club,39.99,Asia,18,18-24,Social Media,No,,Not Churned,2,1,79.98,6,Detractor,No
+SUB0096,2024-07-21 00:00:00,2024-07,Pit Lane,9.99,UAE,31,25-34,Social Media,Yes,2024-09-15 00:00:00,Lack of Content,1.8,0,17.98,6,Detractor,No
+SUB0097,2023-09-28 00:00:00,2023-09,Podium,19.99,Middle East,28,25-34,Social Media,Yes,2023-12-21 00:00:00,Technical Issues,2.8,1,55.97,4,Detractor,No
+SUB0098,2023-06-09 00:00:00,2023-06,Pit Lane,9.99,Latin America,36,35-44,Organic,Yes,2024-02-09 00:00:00,Found Alternative,8,7,79.92,4,Detractor,No
+SUB0099,2023-07-28 00:00:00,2023-07,Podium,19.99,Europe,32,25-34,Paid Ad,No,,Not Churned,17.1,16,341.83,10,Promoter,No
+SUB0100,2024-06-01 00:00:00,2024-06,Podium,19.99,USA,47,45-54,Social Media,No,,Not Churned,7,6,139.93,10,Promoter,No
+SUB0101,2023-02-22 00:00:00,2023-02,Paddock Club,39.99,Europe,42,35-44,Paid Ad,Yes,2024-05-30 00:00:00,Found Alternative,15.2,14,607.85,9,Promoter,No
+SUB0102,2023-02-15 00:00:00,2023-02,Pit Lane,9.99,Europe,39,35-44,Paid Ad,Yes,2023-07-28 00:00:00,Found Alternative,5.4,4,53.95,3,Detractor,No
+SUB0103,2023-06-15 00:00:00,2023-06,Pit Lane,9.99,Europe,32,25-34,Social Media,No,,Not Churned,18.6,17,185.81,2,Detractor,No
+SUB0104,2024-03-13 00:00:00,2024-03,Podium,19.99,Europe,18,18-24,Organic,No,,Not Churned,9.6,8,191.9,7,Passive,No
+SUB0105,2023-06-02 00:00:00,2023-06,Pit Lane,9.99,Latin America,39,35-44,Referral,No,,Not Churned,19,18,189.81,3,Detractor,No
+SUB0106,2024-08-19 00:00:00,2024-08,Pit Lane,9.99,UAE,33,25-34,Paid Ad,No,,Not Churned,4.4,3,43.96,4,Detractor,No
+SUB0107,2023-02-12 00:00:00,2023-02,Pit Lane,9.99,Europe,47,45-54,Social Media,Yes,2023-04-23 00:00:00,Found Alternative,2.3,1,22.98,5,Detractor,No
+SUB0108,2023-08-04 00:00:00,2023-08,Pit Lane,9.99,Europe,26,25-34,Paid Ad,No,,Not Churned,16.9,16,168.83,5,Detractor,No
+SUB0109,2023-12-29 00:00:00,2023-12,Pit Lane,9.99,UAE,19,18-24,Paid Ad,No,,Not Churned,12.1,11,120.88,6,Detractor,No
+SUB0110,2024-02-21 00:00:00,2024-02,Pit Lane,9.99,USA,25,25-34,Organic,No,,Not Churned,10.3,9,102.9,6,Detractor,No
+SUB0111,2023-08-31 00:00:00,2023-08,Paddock Club,39.99,Middle East,37,35-44,Paid Ad,No,,Not Churned,16,15,639.84,6,Detractor,No
+SUB0112,2023-07-01 00:00:00,2023-07,Podium,19.99,Europe,28,25-34,Paid Ad,No,,Not Churned,18,17,359.82,3,Detractor,Yes
+SUB0113,2023-12-07 00:00:00,2023-12,Podium,19.99,Europe,37,35-44,Referral,No,,Not Churned,12.8,12,255.87,5,Detractor,No
+SUB0114,2024-11-16 00:00:00,2024-11,Paddock Club,39.99,USA,29,25-34,Organic,No,,Not Churned,1.5,0,59.98,6,Detractor,No
+SUB0115,2023-10-01 00:00:00,2023-10,Podium,19.99,Europe,29,25-34,Paid Ad,Yes,2024-10-24 00:00:00,Too Expensive,12.8,11,255.87,7,Passive,No
+SUB0116,2024-01-27 00:00:00,2024-01,Pit Lane,9.99,Europe,44,35-44,Referral,No,,Not Churned,11.1,10,110.89,8,Passive,No
+SUB0117,2023-08-16 00:00:00,2023-08,Podium,19.99,USA,49,45-54,Paid Ad,Yes,2024-12-28 00:00:00,No Time,16.4,15,327.84,9,Promoter,No
+SUB0118,2023-12-25 00:00:00,2023-12,Podium,19.99,Europe,23,18-24,Paid Ad,Yes,2024-05-19 00:00:00,Lack of Content,4.8,3,95.95,4,Detractor,No
+SUB0119,2023-01-25 00:00:00,2023-01,Podium,19.99,USA,31,25-34,Referral,No,,Not Churned,23.2,22,463.77,7,Passive,No
+SUB0120,2023-10-13 00:00:00,2023-10,Pit Lane,9.99,UAE,25,25-34,Paid Ad,No,,Not Churned,14.6,13,145.85,5,Detractor,No
+SUB0121,2023-10-13 00:00:00,2023-10,Pit Lane,9.99,Europe,18,18-24,Paid Ad,Yes,2024-07-29 00:00:00,No Time,9.5,8,94.9,7,Passive,No
+SUB0122,2024-11-26 00:00:00,2024-11,Paddock Club,39.99,UAE,26,25-34,Referral,No,,Not Churned,1.1,0,43.99,9,Promoter,No
+SUB0123,2023-01-29 00:00:00,2023-01,Pit Lane,9.99,USA,47,45-54,Social Media,Yes,2023-11-22 00:00:00,Lack of Content,9.8,8,97.9,9,Promoter,No
+SUB0124,2024-08-17 00:00:00,2024-08,Pit Lane,9.99,Asia,24,18-24,Paid Ad,No,,Not Churned,4.5,3,44.96,3,Detractor,No
+SUB0125,2023-04-22 00:00:00,2023-04,Podium,19.99,Europe,18,18-24,Paid Ad,No,,Not Churned,20.3,19,405.8,8,Passive,No
+SUB0126,2023-11-18 00:00:00,2023-11,Podium,19.99,Europe,25,25-34,Referral,No,,Not Churned,13.4,12,267.87,7,Passive,No
+SUB0127,2023-04-29 00:00:00,2023-04,Pit Lane,9.99,Europe,26,25-34,Paid Ad,Yes,2023-12-09 00:00:00,Found Alternative,7.4,6,73.93,7,Passive,No
+SUB0128,2023-02-15 00:00:00,2023-02,Podium,19.99,Asia,18,18-24,Organic,No,,Not Churned,22.5,21,449.78,5,Detractor,Yes
+SUB0129,2024-07-05 00:00:00,2024-07,Pit Lane,9.99,Middle East,32,25-34,Social Media,No,,Not Churned,5.9,4,58.94,6,Detractor,No
+SUB0130,2024-11-17 00:00:00,2024-11,Pit Lane,9.99,UAE,40,35-44,Organic,Yes,2024-12-23 00:00:00,Too Expensive,1.2,0,11.99,6,Detractor,No
+SUB0131,2024-11-11 00:00:00,2024-11,Pit Lane,9.99,Asia,28,25-34,Paid Ad,No,,Not Churned,1.6,0,15.98,5,Detractor,No
+SUB0132,2024-11-10 00:00:00,2024-11,Podium,19.99,USA,37,35-44,Organic,No,,Not Churned,1.7,0,33.98,6,Detractor,No
+SUB0133,2023-11-04 00:00:00,2023-11,Pit Lane,9.99,Asia,25,25-34,Referral,No,,Not Churned,13.9,13,138.86,2,Detractor,No
+SUB0134,2023-12-01 00:00:00,2023-12,Pit Lane,9.99,Asia,33,25-34,Organic,No,,Not Churned,13,12,129.87,6,Detractor,No
+SUB0135,2023-05-11 00:00:00,2023-05,Pit Lane,9.99,USA,23,18-24,Social Media,Yes,2024-07-02 00:00:00,Lack of Content,13.7,12,136.86,7,Passive,No
+SUB0136,2024-09-22 00:00:00,2024-09,Paddock Club,39.99,USA,33,25-34,Referral,No,,Not Churned,3.3,2,131.97,7,Passive,No
+SUB0137,2023-01-01 00:00:00,2023-01,Podium,19.99,USA,27,25-34,Social Media,Yes,2023-09-03 00:00:00,No Time,8,7,159.92,7,Passive,No
+SUB0138,2024-08-16 00:00:00,2024-08,Pit Lane,9.99,Europe,31,25-34,Organic,No,,Not Churned,4.5,3,44.96,5,Detractor,No
+SUB0139,2024-03-28 00:00:00,2024-03,Podium,19.99,Asia,41,35-44,Referral,No,,Not Churned,9.1,8,181.91,6,Detractor,No
+SUB0140,2024-04-29 00:00:00,2024-04,Pit Lane,9.99,Europe,37,35-44,Organic,No,,Not Churned,8.1,7,80.92,8,Passive,No
+SUB0141,2023-06-23 00:00:00,2023-06,Podium,19.99,USA,22,18-24,Paid Ad,No,,Not Churned,18.3,17,365.82,6,Detractor,No
+SUB0142,2024-11-10 00:00:00,2024-11,Paddock Club,39.99,USA,36,35-44,Referral,No,,Not Churned,1.7,0,67.98,7,Passive,No
+SUB0143,2023-08-29 00:00:00,2023-08,Pit Lane,9.99,USA,29,25-34,Organic,No,,Not Churned,16.1,15,160.84,6,Detractor,No
+SUB0144,2023-07-23 00:00:00,2023-07,Paddock Club,39.99,Middle East,34,25-34,Organic,Yes,2023-09-14 00:00:00,Lack of Content,1.7,0,67.98,8,Passive,No
+SUB0145,2024-05-01 00:00:00,2024-05,Podium,19.99,Europe,20,18-24,Organic,No,,Not Churned,8,7,159.92,10,Promoter,No
+SUB0146,2024-04-11 00:00:00,2024-04,Podium,19.99,Middle East,23,18-24,Social Media,No,,Not Churned,8.7,7,173.91,6,Detractor,No
+SUB0147,2023-07-19 00:00:00,2023-07,Paddock Club,39.99,Asia,51,45-54,Paid Ad,No,,Not Churned,17.4,16,695.83,8,Passive,No
+SUB0148,2024-02-14 00:00:00,2024-02,Pit Lane,9.99,UAE,22,18-24,Referral,Yes,2024-03-17 00:00:00,Too Expensive,1.1,0,10.99,3,Detractor,No
+SUB0149,2024-03-11 00:00:00,2024-03,Podium,19.99,Middle East,41,35-44,Referral,No,,Not Churned,9.7,8,193.9,5,Detractor,No
+SUB0150,2024-06-14 00:00:00,2024-06,Pit Lane,9.99,Europe,29,25-34,Referral,No,,Not Churned,6.6,5,65.93,6,Detractor,No
+SUB0151,2023-05-05 00:00:00,2023-05,Pit Lane,9.99,Europe,39,35-44,Social Media,No,,Not Churned,19.9,19,198.8,3,Detractor,No
+SUB0152,2024-11-14 00:00:00,2024-11,Podium,19.99,UAE,28,25-34,Organic,No,,Not Churned,1.5,0,29.98,5,Detractor,No
+SUB0153,2023-11-21 00:00:00,2023-11,Pit Lane,9.99,Latin America,25,25-34,Organic,No,,Not Churned,13.3,12,132.87,6,Detractor,No
+SUB0154,2024-09-19 00:00:00,2024-09,Podium,19.99,Europe,26,25-34,Social Media,No,,Not Churned,3.4,2,67.97,6,Detractor,No
+SUB0155,2024-03-12 00:00:00,2024-03,Pit Lane,9.99,USA,42,35-44,Organic,No,,Not Churned,9.7,8,96.9,1,Detractor,No
+SUB0156,2023-06-12 00:00:00,2023-06,Pit Lane,9.99,Europe,28,25-34,Organic,No,,Not Churned,18.7,17,186.81,5,Detractor,No
+SUB0157,2023-09-23 00:00:00,2023-09,Paddock Club,39.99,Middle East,37,35-44,Referral,No,,Not Churned,15.3,14,611.85,5,Detractor,No
+SUB0158,2023-10-11 00:00:00,2023-10,Pit Lane,9.99,UAE,38,35-44,Paid Ad,No,,Not Churned,14.7,13,146.85,8,Passive,No
+SUB0159,2024-10-03 00:00:00,2024-10,Pit Lane,9.99,Europe,31,25-34,Paid Ad,Yes,2024-11-30 00:00:00,Too Expensive,1.9,0,18.98,6,Detractor,No
+SUB0160,2023-10-20 00:00:00,2023-10,Pit Lane,9.99,USA,29,25-34,Paid Ad,Yes,2024-05-08 00:00:00,Found Alternative,6.6,5,65.93,5,Detractor,No
+SUB0161,2024-07-07 00:00:00,2024-07,Podium,19.99,Asia,44,35-44,Social Media,Yes,2024-09-13 00:00:00,Lack of Content,2.2,1,43.98,5,Detractor,No
+SUB0162,2024-01-28 00:00:00,2024-01,Pit Lane,9.99,Europe,33,25-34,Social Media,No,,Not Churned,11.1,10,110.89,4,Detractor,No
+SUB0163,2023-03-07 00:00:00,2023-03,Pit Lane,9.99,Asia,21,18-24,Social Media,No,,Not Churned,21.8,21,217.78,5,Detractor,No
+SUB0164,2024-04-22 00:00:00,2024-04,Pit Lane,9.99,USA,20,18-24,Paid Ad,Yes,2024-07-13 00:00:00,No Time,2.7,1,26.97,9,Promoter,No
+SUB0165,2024-02-03 00:00:00,2024-02,Podium,19.99,Europe,38,35-44,Paid Ad,No,,Not Churned,10.9,10,217.89,7,Passive,No
+SUB0166,2023-01-21 00:00:00,2023-01,Podium,19.99,Europe,33,25-34,Paid Ad,No,,Not Churned,23.3,22,465.77,4,Detractor,No
+SUB0167,2024-01-25 00:00:00,2024-01,Podium,19.99,Europe,20,18-24,Paid Ad,No,,Not Churned,11.2,10,223.89,7,Passive,No
+SUB0168,2023-11-02 00:00:00,2023-11,Pit Lane,9.99,UAE,32,25-34,Social Media,No,,Not Churned,14,13,139.86,4,Detractor,No
+SUB0169,2024-03-05 00:00:00,2024-03,Pit Lane,9.99,USA,27,25-34,Organic,No,,Not Churned,9.9,9,98.9,7,Passive,No
+SUB0170,2024-09-09 00:00:00,2024-09,Pit Lane,9.99,Europe,33,25-34,Social Media,No,,Not Churned,3.7,2,36.96,8,Passive,No
+SUB0171,2023-10-07 00:00:00,2023-10,Podium,19.99,USA,29,25-34,Paid Ad,No,,Not Churned,14.8,14,295.85,8,Passive,Yes
+SUB0172,2023-12-11 00:00:00,2023-12,Pit Lane,9.99,USA,35,35-44,Paid Ad,No,,Not Churned,12.7,11,126.87,5,Detractor,No
+SUB0173,2023-06-19 00:00:00,2023-06,Pit Lane,9.99,USA,18,18-24,Paid Ad,No,,Not Churned,18.4,17,183.82,5,Detractor,No
+SUB0174,2024-09-29 00:00:00,2024-09,Pit Lane,9.99,USA,23,18-24,Paid Ad,No,,Not Churned,3.1,2,30.97,10,Promoter,No
+SUB0175,2024-08-29 00:00:00,2024-08,Podium,19.99,Middle East,35,35-44,Organic,No,,Not Churned,4.1,3,81.96,4,Detractor,Yes
+SUB0176,2024-10-20 00:00:00,2024-10,Pit Lane,9.99,USA,40,35-44,Organic,No,,Not Churned,2.4,1,23.98,5,Detractor,No
+SUB0177,2023-07-06 00:00:00,2023-07,Pit Lane,9.99,UAE,46,45-54,Organic,Yes,2024-08-27 00:00:00,Found Alternative,13.7,12,136.86,6,Detractor,No
+SUB0178,2023-08-05 00:00:00,2023-08,Pit Lane,9.99,Europe,36,35-44,Social Media,No,,Not Churned,16.9,16,168.83,8,Passive,No
+SUB0179,2024-01-24 00:00:00,2024-01,Pit Lane,9.99,USA,20,18-24,Referral,Yes,2024-09-25 00:00:00,Found Alternative,8,7,79.92,6,Detractor,No
+SUB0180,2023-03-25 00:00:00,2023-03,Podium,19.99,Asia,35,35-44,Organic,No,,Not Churned,21.3,20,425.79,9,Promoter,No
+SUB0181,2023-02-23 00:00:00,2023-02,Podium,19.99,Asia,18,18-24,Paid Ad,No,,Not Churned,22.2,21,443.78,7,Passive,No
+SUB0182,2024-10-27 00:00:00,2024-10,Paddock Club,39.99,Middle East,34,25-34,Paid Ad,Yes,2024-11-28 00:00:00,Too Expensive,1.1,0,43.99,8,Passive,No
+SUB0183,2023-09-11 00:00:00,2023-09,Pit Lane,9.99,USA,34,25-34,Social Media,Yes,2023-10-21 00:00:00,Technical Issues,1.3,0,12.99,6,Detractor,No
+SUB0184,2023-06-06 00:00:00,2023-06,Paddock Club,39.99,Middle East,31,25-34,Referral,No,,Not Churned,18.9,18,755.81,8,Passive,No
+SUB0185,2023-04-28 00:00:00,2023-04,Pit Lane,9.99,Asia,19,18-24,Paid Ad,No,,Not Churned,20.1,19,200.8,7,Passive,No
+SUB0186,2023-09-20 00:00:00,2023-09,Pit Lane,9.99,UAE,41,35-44,Organic,No,,Not Churned,15.4,14,153.85,4,Detractor,Yes
+SUB0187,2024-09-13 00:00:00,2024-09,Pit Lane,9.99,Europe,25,25-34,Organic,No,,Not Churned,3.6,2,35.96,8,Passive,No
+SUB0188,2023-06-17 00:00:00,2023-06,Podium,19.99,Asia,31,25-34,Organic,No,,Not Churned,18.5,17,369.82,9,Promoter,No
+SUB0189,2023-01-27 00:00:00,2023-01,Paddock Club,39.99,Asia,40,35-44,Social Media,No,,Not Churned,23.1,22,923.77,6,Detractor,No
+SUB0190,2024-01-20 00:00:00,2024-01,Pit Lane,9.99,USA,27,25-34,Organic,No,,Not Churned,11.4,10,113.89,9,Promoter,No
+SUB0191,2023-03-19 00:00:00,2023-03,Pit Lane,9.99,Asia,28,25-34,Paid Ad,No,,Not Churned,21.5,20,214.78,5,Detractor,No
+SUB0192,2023-09-06 00:00:00,2023-09,Pit Lane,9.99,Europe,30,25-34,Paid Ad,Yes,2024-11-04 00:00:00,Found Alternative,14,13,139.86,6,Detractor,No
+SUB0193,2024-12-01 00:00:00,2024-12,Pit Lane,9.99,USA,29,25-34,Paid Ad,No,,Not Churned,1,0,9.99,5,Detractor,Yes
+SUB0194,2024-08-02 00:00:00,2024-08,Paddock Club,39.99,Middle East,22,18-24,Referral,No,,Not Churned,5,4,199.95,8,Passive,No
+SUB0195,2024-03-14 00:00:00,2024-03,Paddock Club,39.99,Europe,40,35-44,Social Media,No,,Not Churned,9.6,8,383.9,10,Promoter,No
+SUB0196,2024-10-25 00:00:00,2024-10,Podium,19.99,Europe,26,25-34,Paid Ad,No,,Not Churned,2.2,1,43.98,6,Detractor,No
+SUB0197,2024-05-16 00:00:00,2024-05,Podium,19.99,Europe,28,25-34,Paid Ad,Yes,2024-09-15 00:00:00,No Time,4,3,79.96,5,Detractor,No
+SUB0198,2023-06-06 00:00:00,2023-06,Podium,19.99,USA,26,25-34,Paid Ad,No,,Not Churned,18.9,18,377.81,8,Passive,No
+SUB0199,2024-10-28 00:00:00,2024-10,Pit Lane,9.99,USA,24,18-24,Organic,Yes,2024-12-31 00:00:00,No Time,2.1,1,20.98,6,Detractor,No
+SUB0200,2024-04-21 00:00:00,2024-04,Paddock Club,39.99,Europe,33,25-34,Paid Ad,No,,Not Churned,8.3,7,331.92,8,Passive,No
+SUB0201,2023-10-02 00:00:00,2023-10,Podium,19.99,USA,18,18-24,Paid Ad,Yes,2024-03-05 00:00:00,Too Expensive,5.1,4,101.95,4,Detractor,No
+SUB0202,2023-10-13 00:00:00,2023-10,Pit Lane,9.99,Asia,26,25-34,Referral,No,,Not Churned,14.6,13,145.85,6,Detractor,No
+SUB0203,2024-04-20 00:00:00,2024-04,Paddock Club,39.99,USA,40,35-44,Referral,No,,Not Churned,8.4,7,335.92,8,Passive,No
+SUB0204,2023-12-11 00:00:00,2023-12,Pit Lane,9.99,USA,35,35-44,Organic,Yes,2024-06-24 00:00:00,Lack of Content,6.4,5,63.94,5,Detractor,No
+SUB0205,2024-05-14 00:00:00,2024-05,Podium,19.99,USA,34,25-34,Social Media,Yes,2024-08-18 00:00:00,Found Alternative,3.2,2,63.97,8,Passive,No
+SUB0206,2023-10-14 00:00:00,2023-10,Podium,19.99,USA,42,35-44,Organic,No,,Not Churned,14.6,13,291.85,8,Passive,No
+SUB0207,2023-10-10 00:00:00,2023-10,Pit Lane,9.99,Asia,28,25-34,Social Media,No,,Not Churned,14.7,13,146.85,4,Detractor,No
+SUB0208,2023-07-15 00:00:00,2023-07,Podium,19.99,Europe,31,25-34,Social Media,Yes,2024-08-16 00:00:00,No Time,13.1,12,261.87,9,Promoter,No
+SUB0209,2024-05-15 00:00:00,2024-05,Pit Lane,9.99,Europe,31,25-34,Organic,No,,Not Churned,7.6,6,75.92,6,Detractor,No
+SUB0210,2024-05-02 00:00:00,2024-05,Pit Lane,9.99,USA,28,25-34,Organic,No,,Not Churned,8,7,79.92,6,Detractor,No
+SUB0211,2023-01-18 00:00:00,2023-01,Podium,19.99,USA,40,35-44,Social Media,Yes,2023-10-01 00:00:00,No Time,8.4,7,167.92,4,Detractor,No
+SUB0212,2023-09-07 00:00:00,2023-09,Paddock Club,39.99,UAE,27,25-34,Social Media,No,,Not Churned,15.8,15,631.84,8,Passive,No
+SUB0213,2024-04-29 00:00:00,2024-04,Pit Lane,9.99,USA,18,18-24,Paid Ad,No,,Not Churned,8.1,7,80.92,8,Passive,No
+SUB0214,2024-07-17 00:00:00,2024-07,Podium,19.99,UAE,26,25-34,Social Media,No,,Not Churned,5.5,4,109.94,7,Passive,No
+SUB0215,2023-10-05 00:00:00,2023-10,Podium,19.99,UAE,29,25-34,Paid Ad,Yes,2024-03-01 00:00:00,Too Expensive,4.9,3,97.95,3,Detractor,No
+SUB0216,2023-07-17 00:00:00,2023-07,Podium,19.99,USA,19,18-24,Referral,No,,Not Churned,17.5,16,349.82,3,Detractor,No
+SUB0217,2023-07-09 00:00:00,2023-07,Pit Lane,9.99,Asia,39,35-44,Organic,Yes,2024-12-15 00:00:00,Found Alternative,17.2,16,171.83,8,Passive,No
+SUB0218,2024-08-26 00:00:00,2024-08,Pit Lane,9.99,Latin America,36,35-44,Paid Ad,No,,Not Churned,4.2,3,41.96,6,Detractor,No
+SUB0219,2023-10-17 00:00:00,2023-10,Pit Lane,9.99,USA,38,35-44,Referral,No,,Not Churned,14.5,13,144.85,6,Detractor,No
+SUB0220,2023-10-31 00:00:00,2023-10,Pit Lane,9.99,Europe,20,18-24,Paid Ad,Yes,2024-02-29 00:00:00,Found Alternative,4,3,39.96,9,Promoter,No
+SUB0221,2023-01-15 00:00:00,2023-01,Paddock Club,39.99,USA,33,25-34,Social Media,No,,Not Churned,23.5,22,939.77,7,Passive,No
+SUB0222,2023-02-16 00:00:00,2023-02,Podium,19.99,Asia,36,35-44,Social Media,No,,Not Churned,22.5,21,449.78,9,Promoter,No
+SUB0223,2023-05-10 00:00:00,2023-05,Pit Lane,9.99,UAE,40,35-44,Social Media,No,,Not Churned,19.7,19,196.8,7,Passive,No
+SUB0224,2023-04-16 00:00:00,2023-04,Pit Lane,9.99,UAE,25,25-34,Paid Ad,No,,Not Churned,20.5,19,204.8,9,Promoter,No
+SUB0225,2024-04-25 00:00:00,2024-04,Pit Lane,9.99,USA,18,18-24,Paid Ad,No,,Not Churned,8.2,7,81.92,7,Passive,No
+SUB0226,2023-02-22 00:00:00,2023-02,Podium,19.99,Europe,27,25-34,Referral,No,,Not Churned,22.3,21,445.78,2,Detractor,No
+SUB0227,2023-04-27 00:00:00,2023-04,Podium,19.99,Europe,33,25-34,Organic,No,,Not Churned,20.2,19,403.8,8,Passive,No
+SUB0228,2023-03-17 00:00:00,2023-03,Pit Lane,9.99,USA,30,25-34,Paid Ad,No,,Not Churned,21.5,20,214.78,4,Detractor,No
+SUB0229,2023-06-05 00:00:00,2023-06,Podium,19.99,USA,23,18-24,Organic,Yes,2024-05-11 00:00:00,Too Expensive,11.2,10,223.89,7,Passive,No
+SUB0230,2023-09-12 00:00:00,2023-09,Pit Lane,9.99,UAE,22,18-24,Paid Ad,Yes,2024-11-06 00:00:00,No Time,13.8,13,137.86,5,Detractor,No
+SUB0231,2024-09-12 00:00:00,2024-09,Podium,19.99,USA,27,25-34,Social Media,No,,Not Churned,3.6,2,71.96,6,Detractor,No
+SUB0232,2024-06-19 00:00:00,2024-06,Pit Lane,9.99,USA,31,25-34,Organic,No,,Not Churned,6.4,5,63.94,5,Detractor,No
+SUB0233,2023-11-01 00:00:00,2023-11,Podium,19.99,Asia,26,25-34,Organic,No,,Not Churned,14,13,279.86,9,Promoter,No
+SUB0234,2023-11-09 00:00:00,2023-11,Podium,19.99,UAE,41,35-44,Social Media,No,,Not Churned,13.7,12,273.86,7,Passive,Yes
+SUB0235,2023-04-12 00:00:00,2023-04,Pit Lane,9.99,USA,28,25-34,Organic,No,,Not Churned,20.7,19,206.79,6,Detractor,No
+SUB0236,2023-08-05 00:00:00,2023-08,Pit Lane,9.99,Europe,28,25-34,Paid Ad,Yes,2023-10-15 00:00:00,Lack of Content,2.3,1,22.98,7,Passive,No
+SUB0237,2023-09-03 00:00:00,2023-09,Paddock Club,39.99,Europe,35,35-44,Paid Ad,Yes,2023-11-10 00:00:00,Lack of Content,2.2,1,87.98,10,Promoter,No
+SUB0238,2023-01-03 00:00:00,2023-01,Pit Lane,9.99,USA,31,25-34,Organic,No,,Not Churned,23.9,23,238.76,6,Detractor,No
+SUB0239,2024-04-26 00:00:00,2024-04,Pit Lane,9.99,USA,39,35-44,Paid Ad,Yes,2024-07-24 00:00:00,Found Alternative,2.9,1,28.97,6,Detractor,No
+SUB0240,2023-10-17 00:00:00,2023-10,Podium,19.99,Asia,21,18-24,Referral,No,,Not Churned,14.5,13,289.85,4,Detractor,No
+SUB0241,2023-08-28 00:00:00,2023-08,Paddock Club,39.99,UAE,18,18-24,Social Media,No,,Not Churned,16.1,15,643.84,10,Promoter,No
+SUB0242,2024-10-02 00:00:00,2024-10,Podium,19.99,USA,29,25-34,Social Media,No,,Not Churned,3,2,59.97,8,Passive,No
+SUB0243,2023-07-22 00:00:00,2023-07,Pit Lane,9.99,USA,35,35-44,Social Media,No,,Not Churned,17.3,16,172.83,4,Detractor,No
+SUB0244,2024-10-25 00:00:00,2024-10,Podium,19.99,Asia,34,25-34,Paid Ad,Yes,2024-12-11 00:00:00,Lack of Content,1.5,0,29.98,7,Passive,No
+SUB0245,2023-03-15 00:00:00,2023-03,Pit Lane,9.99,Europe,33,25-34,Social Media,Yes,2024-02-22 00:00:00,Technical Issues,11.3,10,112.89,5,Detractor,No
+SUB0246,2024-08-05 00:00:00,2024-08,Pit Lane,9.99,Europe,37,35-44,Social Media,No,,Not Churned,4.9,3,48.95,1,Detractor,No
+SUB0247,2024-04-24 00:00:00,2024-04,Pit Lane,9.99,USA,33,25-34,Paid Ad,No,,Not Churned,8.2,7,81.92,6,Detractor,No
+SUB0248,2023-10-06 00:00:00,2023-10,Pit Lane,9.99,USA,27,25-34,Referral,No,,Not Churned,14.8,14,147.85,7,Passive,No
+SUB0249,2023-03-24 00:00:00,2023-03,Paddock Club,39.99,USA,18,18-24,Paid Ad,No,,Not Churned,21.3,20,851.79,8,Passive,No
+SUB0250,2023-11-27 00:00:00,2023-11,Podium,19.99,Europe,43,35-44,Paid Ad,No,,Not Churned,13.1,12,261.87,8,Passive,Yes
+SUB0251,2023-08-23 00:00:00,2023-08,Pit Lane,9.99,Europe,37,35-44,Paid Ad,No,,Not Churned,16.3,15,162.84,8,Passive,No
+SUB0252,2024-08-12 00:00:00,2024-08,Pit Lane,9.99,Asia,39,35-44,Social Media,No,,Not Churned,4.6,3,45.95,6,Detractor,Yes
+SUB0253,2024-11-19 00:00:00,2024-11,Pit Lane,9.99,UAE,31,25-34,Paid Ad,No,,Not Churned,1.4,0,13.99,5,Detractor,No
+SUB0254,2023-06-29 00:00:00,2023-06,Paddock Club,39.99,UAE,36,35-44,Paid Ad,No,,Not Churned,18.1,17,723.82,7,Passive,No
+SUB0255,2023-10-12 00:00:00,2023-10,Pit Lane,9.99,USA,32,25-34,Paid Ad,Yes,2024-09-05 00:00:00,No Time,10.8,9,107.89,7,Passive,No
+SUB0256,2024-10-12 00:00:00,2024-10,Paddock Club,39.99,USA,47,45-54,Organic,No,,Not Churned,2.6,1,103.97,7,Passive,No
+SUB0257,2024-04-26 00:00:00,2024-04,Pit Lane,9.99,UAE,23,18-24,Referral,No,,Not Churned,8.2,7,81.92,7,Passive,No
+SUB0258,2024-11-17 00:00:00,2024-11,Podium,19.99,Latin America,26,25-34,Paid Ad,Yes,2024-12-19 00:00:00,Found Alternative,1.1,0,21.99,10,Promoter,No
+SUB0259,2024-02-26 00:00:00,2024-02,Paddock Club,39.99,Europe,30,25-34,Organic,No,,Not Churned,10.2,9,407.9,10,Promoter,No
+SUB0260,2024-02-15 00:00:00,2024-02,Podium,19.99,Asia,39,35-44,Organic,No,,Not Churned,10.5,9,209.9,9,Promoter,No
+SUB0261,2024-04-10 00:00:00,2024-04,Pit Lane,9.99,USA,24,18-24,Referral,Yes,2024-07-13 00:00:00,Found Alternative,3.1,2,30.97,7,Passive,No
+SUB0262,2023-04-29 00:00:00,2023-04,Podium,19.99,Latin America,30,25-34,Paid Ad,No,,Not Churned,20.1,19,401.8,7,Passive,No
+SUB0263,2024-06-10 00:00:00,2024-06,Paddock Club,39.99,Asia,35,35-44,Organic,No,,Not Churned,6.7,5,267.93,8,Passive,No
+SUB0264,2024-07-09 00:00:00,2024-07,Pit Lane,9.99,Europe,35,35-44,Organic,No,,Not Churned,5.7,4,56.94,7,Passive,Yes
+SUB0265,2024-06-14 00:00:00,2024-06,Podium,19.99,Europe,31,25-34,Social Media,No,,Not Churned,6.6,5,131.93,5,Detractor,No
+SUB0266,2024-10-02 00:00:00,2024-10,Pit Lane,9.99,Europe,43,35-44,Referral,No,,Not Churned,3,2,29.97,4,Detractor,Yes
+SUB0267,2023-10-01 00:00:00,2023-10,Pit Lane,9.99,USA,20,18-24,Paid Ad,No,,Not Churned,15,14,149.85,5,Detractor,No
+SUB0268,2024-03-24 00:00:00,2024-03,Pit Lane,9.99,USA,25,25-34,Organic,No,,Not Churned,9.3,8,92.91,10,Promoter,No
+SUB0269,2023-01-30 00:00:00,2023-01,Pit Lane,9.99,Asia,27,25-34,Organic,No,,Not Churned,23,22,229.77,6,Detractor,No
+SUB0270,2023-09-03 00:00:00,2023-09,Pit Lane,9.99,Europe,39,35-44,Referral,No,,Not Churned,15.9,15,158.84,10,Promoter,No
+SUB0271,2023-01-15 00:00:00,2023-01,Podium,19.99,Asia,28,25-34,Social Media,No,,Not Churned,23.5,22,469.76,7,Passive,Yes
+SUB0272,2023-04-27 00:00:00,2023-04,Paddock Club,39.99,UAE,24,18-24,Social Media,No,,Not Churned,20.2,19,807.8,7,Passive,No
+SUB0273,2023-06-07 00:00:00,2023-06,Pit Lane,9.99,Europe,38,35-44,Paid Ad,No,,Not Churned,18.8,18,187.81,5,Detractor,No
+SUB0274,2024-06-05 00:00:00,2024-06,Podium,19.99,Europe,23,18-24,Organic,No,,Not Churned,6.9,5,137.93,8,Passive,No
+SUB0275,2024-05-09 00:00:00,2024-05,Pit Lane,9.99,Europe,23,18-24,Paid Ad,No,,Not Churned,7.8,6,77.92,7,Passive,No
+SUB0276,2024-07-18 00:00:00,2024-07,Podium,19.99,USA,18,18-24,Paid Ad,Yes,2024-10-04 00:00:00,Technical Issues,2.6,1,51.97,7,Passive,No
+SUB0277,2024-06-04 00:00:00,2024-06,Paddock Club,39.99,USA,26,25-34,Social Media,No,,Not Churned,6.9,6,275.93,8,Passive,No
+SUB0278,2023-03-13 00:00:00,2023-03,Podium,19.99,Latin America,31,25-34,Organic,No,,Not Churned,21.6,20,431.78,7,Passive,No
+SUB0279,2024-02-29 00:00:00,2024-02,Pit Lane,9.99,Europe,40,35-44,Organic,Yes,2024-12-14 00:00:00,Found Alternative,9.5,8,94.9,5,Detractor,No
+SUB0280,2023-01-03 00:00:00,2023-01,Paddock Club,39.99,Europe,25,25-34,Paid Ad,No,,Not Churned,23.9,23,955.76,9,Promoter,No
+SUB0281,2024-08-24 00:00:00,2024-08,Podium,19.99,Europe,32,25-34,Organic,No,,Not Churned,4.2,3,83.96,5,Detractor,No
+SUB0282,2023-06-02 00:00:00,2023-06,Pit Lane,9.99,USA,36,35-44,Paid Ad,No,,Not Churned,19,18,189.81,7,Passive,No
+SUB0283,2023-12-07 00:00:00,2023-12,Pit Lane,9.99,UAE,40,35-44,Paid Ad,No,,Not Churned,12.8,12,127.87,9,Promoter,No
+SUB0284,2024-04-11 00:00:00,2024-04,Podium,19.99,Europe,30,25-34,Referral,No,,Not Churned,8.7,7,173.91,10,Promoter,No
+SUB0285,2023-09-02 00:00:00,2023-09,Paddock Club,39.99,Europe,19,18-24,Organic,No,,Not Churned,16,15,639.84,4,Detractor,No
+SUB0286,2024-02-25 00:00:00,2024-02,Podium,19.99,USA,35,35-44,Social Media,Yes,2024-11-23 00:00:00,No Time,8.9,8,177.91,10,Promoter,No
+SUB0287,2024-01-31 00:00:00,2024-01,Pit Lane,9.99,UAE,22,18-24,Paid Ad,No,,Not Churned,11,10,109.89,5,Detractor,No
+SUB0288,2024-10-29 00:00:00,2024-10,Pit Lane,9.99,UAE,32,25-34,Organic,No,,Not Churned,2.1,1,20.98,3,Detractor,No
+SUB0289,2023-02-07 00:00:00,2023-02,Paddock Club,39.99,USA,21,18-24,Organic,Yes,2024-11-02 00:00:00,Found Alternative,20.8,20,831.79,5,Detractor,No
+SUB0290,2023-04-13 00:00:00,2023-04,Podium,19.99,Latin America,44,35-44,Organic,No,,Not Churned,20.6,19,411.79,7,Passive,No
+SUB0291,2024-06-22 00:00:00,2024-06,Pit Lane,9.99,UAE,23,18-24,Organic,No,,Not Churned,6.3,5,62.94,7,Passive,Yes
+SUB0292,2023-05-28 00:00:00,2023-05,Podium,19.99,UAE,25,25-34,Referral,No,,Not Churned,19.2,18,383.81,9,Promoter,No
+SUB0293,2023-06-08 00:00:00,2023-06,Podium,19.99,Asia,26,25-34,Social Media,Yes,2024-04-04 00:00:00,Found Alternative,9.9,9,197.9,4,Detractor,No
+SUB0294,2024-09-30 00:00:00,2024-09,Pit Lane,9.99,Latin America,40,35-44,Social Media,No,,Not Churned,3,2,29.97,6,Detractor,No
+SUB0295,2023-12-03 00:00:00,2023-12,Podium,19.99,USA,26,25-34,Paid Ad,No,,Not Churned,12.9,12,257.87,7,Passive,No
+SUB0296,2024-01-25 00:00:00,2024-01,Podium,19.99,Asia,24,18-24,Organic,No,,Not Churned,11.2,10,223.89,4,Detractor,No
+SUB0297,2024-05-14 00:00:00,2024-05,Pit Lane,9.99,Middle East,24,18-24,Organic,No,,Not Churned,7.6,6,75.92,3,Detractor,Yes
+SUB0298,2023-03-12 00:00:00,2023-03,Pit Lane,9.99,USA,30,25-34,Organic,Yes,2024-01-30 00:00:00,Lack of Content,10.6,9,105.89,8,Passive,No
+SUB0299,2023-04-03 00:00:00,2023-04,Paddock Club,39.99,Asia,27,25-34,Paid Ad,No,,Not Churned,21,20,839.79,10,Promoter,No
+SUB0300,2024-10-10 00:00:00,2024-10,Paddock Club,39.99,Asia,25,25-34,Social Media,No,,Not Churned,2.7,1,107.97,9,Promoter,No
+SUB0301,2023-06-20 00:00:00,2023-06,Pit Lane,9.99,Europe,22,18-24,Paid Ad,No,,Not Churned,18.4,17,183.82,8,Passive,No
+SUB0302,2023-02-17 00:00:00,2023-02,Paddock Club,39.99,USA,30,25-34,Social Media,No,,Not Churned,22.4,21,895.78,9,Promoter,No
+SUB0303,2024-01-03 00:00:00,2024-01,Podium,19.99,Asia,18,18-24,Paid Ad,No,,Not Churned,11.9,11,237.88,7,Passive,No
+SUB0304,2024-06-27 00:00:00,2024-06,Pit Lane,9.99,Europe,31,25-34,Paid Ad,Yes,2024-09-11 00:00:00,Lack of Content,2.5,1,24.98,7,Passive,No
+SUB0305,2023-06-29 00:00:00,2023-06,Paddock Club,39.99,Europe,18,18-24,Referral,Yes,2024-08-23 00:00:00,Technical Issues,13.8,13,551.86,8,Passive,No
+SUB0306,2024-11-30 00:00:00,2024-11,Pit Lane,9.99,USA,43,35-44,Paid Ad,Yes,2024-12-30 00:00:00,Lack of Content,1,0,9.99,8,Passive,No
+SUB0307,2024-04-17 00:00:00,2024-04,Pit Lane,9.99,UAE,25,25-34,Social Media,No,,Not Churned,8.5,7,84.92,6,Detractor,No
+SUB0308,2024-11-13 00:00:00,2024-11,Paddock Club,39.99,UAE,26,25-34,Organic,Yes,2024-12-27 00:00:00,Found Alternative,1.4,0,55.99,7,Passive,No
+SUB0309,2024-11-24 00:00:00,2024-11,Podium,19.99,UAE,18,18-24,Organic,No,,Not Churned,1.2,0,23.99,8,Passive,Yes
+SUB0310,2023-12-20 00:00:00,2023-12,Podium,19.99,USA,20,18-24,Referral,No,,Not Churned,12.4,11,247.88,6,Detractor,No
+SUB0311,2024-03-10 00:00:00,2024-03,Pit Lane,9.99,Europe,38,35-44,Social Media,No,,Not Churned,9.7,8,96.9,7,Passive,No
+SUB0312,2023-11-06 00:00:00,2023-11,Pit Lane,9.99,Europe,26,25-34,Referral,Yes,2024-06-19 00:00:00,No Time,7.4,6,73.93,7,Passive,No
+SUB0313,2023-04-20 00:00:00,2023-04,Podium,19.99,Europe,23,18-24,Paid Ad,Yes,2024-12-25 00:00:00,Found Alternative,20.2,19,403.8,7,Passive,No
+SUB0314,2024-08-11 00:00:00,2024-08,Podium,19.99,USA,30,25-34,Social Media,Yes,2024-12-08 00:00:00,Found Alternative,3.9,2,77.96,5,Detractor,No
+SUB0315,2023-01-23 00:00:00,2023-01,Pit Lane,9.99,Europe,18,18-24,Organic,No,,Not Churned,23.3,22,232.77,5,Detractor,No
+SUB0316,2023-10-09 00:00:00,2023-10,Pit Lane,9.99,USA,25,25-34,Social Media,Yes,2024-10-24 00:00:00,Too Expensive,12.5,11,124.88,8,Passive,No
+SUB0317,2024-09-12 00:00:00,2024-09,Podium,19.99,Europe,30,25-34,Paid Ad,No,,Not Churned,3.6,2,71.96,8,Passive,No
+SUB0318,2023-10-21 00:00:00,2023-10,Podium,19.99,USA,41,35-44,Social Media,No,,Not Churned,14.4,13,287.86,10,Promoter,No
+SUB0319,2023-12-27 00:00:00,2023-12,Pit Lane,9.99,USA,31,25-34,Paid Ad,Yes,2024-05-02 00:00:00,Technical Issues,4.2,3,41.96,9,Promoter,No
+SUB0320,2023-09-14 00:00:00,2023-09,Podium,19.99,UAE,28,25-34,Paid Ad,No,,Not Churned,15.6,14,311.84,7,Passive,No
+SUB0321,2024-11-06 00:00:00,2024-11,Pit Lane,9.99,UAE,24,18-24,Social Media,No,,Not Churned,1.8,0,17.98,8,Passive,Yes
+SUB0322,2023-04-10 00:00:00,2023-04,Pit Lane,9.99,Europe,22,18-24,Social Media,No,,Not Churned,20.7,20,206.79,7,Passive,No
+SUB0323,2023-11-13 00:00:00,2023-11,Pit Lane,9.99,UAE,24,18-24,Organic,No,,Not Churned,13.6,12,135.86,8,Passive,Yes
+SUB0324,2024-01-09 00:00:00,2024-01,Pit Lane,9.99,UAE,38,35-44,Social Media,No,,Not Churned,11.7,10,116.88,5,Detractor,Yes
+SUB0325,2023-10-30 00:00:00,2023-10,Podium,19.99,Europe,33,25-34,Paid Ad,Yes,2024-06-28 00:00:00,Lack of Content,8,7,159.92,5,Detractor,No
+SUB0326,2023-07-25 00:00:00,2023-07,Podium,19.99,USA,25,25-34,Organic,Yes,2024-05-26 00:00:00,Found Alternative,10.1,9,201.9,8,Passive,No
+SUB0327,2024-06-27 00:00:00,2024-06,Paddock Club,39.99,USA,36,35-44,Organic,No,,Not Churned,6.1,5,243.94,9,Promoter,No
+SUB0328,2023-06-18 00:00:00,2023-06,Podium,19.99,Europe,22,18-24,Referral,No,,Not Churned,18.5,17,369.82,3,Detractor,No
+SUB0329,2024-05-08 00:00:00,2024-05,Pit Lane,9.99,USA,27,25-34,Social Media,No,,Not Churned,7.8,6,77.92,5,Detractor,No
+SUB0330,2023-12-13 00:00:00,2023-12,Pit Lane,9.99,Asia,37,35-44,Organic,No,,Not Churned,12.6,11,125.87,5,Detractor,No
+SUB0331,2023-03-19 00:00:00,2023-03,Paddock Club,39.99,Asia,37,35-44,Social Media,Yes,2023-12-05 00:00:00,No Time,8.6,7,343.91,6,Detractor,No
+SUB0332,2024-07-24 00:00:00,2024-07,Pit Lane,9.99,Asia,36,35-44,Organic,No,,Not Churned,5.3,4,52.95,8,Passive,No
+SUB0333,2023-01-15 00:00:00,2023-01,Pit Lane,9.99,USA,30,25-34,Social Media,Yes,2023-06-20 00:00:00,No Time,5.1,4,50.95,6,Detractor,No
+SUB0334,2024-01-13 00:00:00,2024-01,Podium,19.99,Asia,40,35-44,Paid Ad,No,,Not Churned,11.6,10,231.88,7,Passive,No
+SUB0335,2024-08-21 00:00:00,2024-08,Podium,19.99,USA,18,18-24,Organic,No,,Not Churned,4.3,3,85.96,7,Passive,No
+SUB0336,2024-01-16 00:00:00,2024-01,Podium,19.99,USA,41,35-44,Social Media,Yes,2024-06-13 00:00:00,No Time,4.9,3,97.95,8,Passive,No
+SUB0337,2023-01-26 00:00:00,2023-01,Pit Lane,9.99,USA,37,35-44,Paid Ad,No,,Not Churned,23.2,22,231.77,4,Detractor,No
+SUB0338,2023-12-02 00:00:00,2023-12,Paddock Club,39.99,UAE,26,25-34,Referral,No,,Not Churned,13,12,519.87,9,Promoter,No
+SUB0339,2023-03-06 00:00:00,2023-03,Podium,19.99,Asia,26,25-34,Organic,No,,Not Churned,21.9,21,437.78,5,Detractor,No
+SUB0340,2023-11-06 00:00:00,2023-11,Podium,19.99,USA,24,18-24,Paid Ad,No,,Not Churned,13.8,13,275.86,8,Passive,No
+SUB0341,2023-02-16 00:00:00,2023-02,Paddock Club,39.99,Europe,27,25-34,Referral,No,,Not Churned,22.5,21,899.78,6,Detractor,No
+SUB0342,2024-05-19 00:00:00,2024-05,Paddock Club,39.99,Latin America,44,35-44,Referral,No,,Not Churned,7.4,6,295.93,7,Passive,No
+SUB0343,2024-07-04 00:00:00,2024-07,Paddock Club,39.99,USA,44,35-44,Referral,No,,Not Churned,5.9,5,235.94,6,Detractor,No
+SUB0344,2024-11-17 00:00:00,2024-11,Pit Lane,9.99,USA,26,25-34,Referral,No,,Not Churned,1.4,0,13.99,10,Promoter,No
+SUB0345,2024-07-07 00:00:00,2024-07,Podium,19.99,UAE,45,45-54,Organic,No,,Not Churned,5.8,4,115.94,10,Promoter,No
+SUB0346,2023-06-08 00:00:00,2023-06,Podium,19.99,USA,37,35-44,Social Media,No,,Not Churned,18.8,18,375.81,6,Detractor,No
+SUB0347,2024-05-16 00:00:00,2024-05,Pit Lane,9.99,UAE,39,35-44,Paid Ad,No,,Not Churned,7.5,6,74.92,5,Detractor,No
+SUB0348,2023-10-14 00:00:00,2023-10,Podium,19.99,Asia,21,18-24,Organic,Yes,2024-05-20 00:00:00,Lack of Content,7.2,6,143.93,6,Detractor,No
+SUB0349,2024-03-30 00:00:00,2024-03,Pit Lane,9.99,Europe,34,25-34,Paid Ad,No,,Not Churned,9.1,8,90.91,4,Detractor,No
+SUB0350,2024-01-07 00:00:00,2024-01,Podium,19.99,Latin America,22,18-24,Social Media,Yes,2024-08-12 00:00:00,Technical Issues,7.2,6,143.93,10,Promoter,No
+SUB0351,2024-10-22 00:00:00,2024-10,Podium,19.99,Asia,40,35-44,Paid Ad,No,,Not Churned,2.3,1,45.98,6,Detractor,No
+SUB0352,2023-07-14 00:00:00,2023-07,Pit Lane,9.99,USA,27,25-34,Organic,No,,Not Churned,17.6,16,175.82,4,Detractor,No
+SUB0353,2024-04-10 00:00:00,2024-04,Pit Lane,9.99,UAE,26,25-34,Paid Ad,Yes,2024-07-03 00:00:00,Technical Issues,2.8,1,27.97,7,Passive,No
+SUB0354,2023-01-22 00:00:00,2023-01,Podium,19.99,Europe,27,25-34,Social Media,Yes,2024-01-28 00:00:00,Lack of Content,12.2,11,243.88,4,Detractor,No
+SUB0355,2023-05-09 00:00:00,2023-05,Paddock Club,39.99,Asia,29,25-34,Paid Ad,No,,Not Churned,19.8,19,791.8,10,Promoter,No
+SUB0356,2024-07-21 00:00:00,2024-07,Pit Lane,9.99,Europe,30,25-34,Paid Ad,Yes,2024-10-14 00:00:00,Lack of Content,2.8,1,27.97,9,Promoter,No
+SUB0357,2023-12-03 00:00:00,2023-12,Pit Lane,9.99,Asia,33,25-34,Social Media,No,,Not Churned,12.9,12,128.87,4,Detractor,No
+SUB0358,2024-09-02 00:00:00,2024-09,Pit Lane,9.99,Asia,30,25-34,Organic,Yes,2024-10-20 00:00:00,Lack of Content,1.6,0,15.98,6,Detractor,No
+SUB0359,2024-07-07 00:00:00,2024-07,Pit Lane,9.99,Europe,24,18-24,Social Media,Yes,2024-09-19 00:00:00,Too Expensive,2.4,1,23.98,4,Detractor,No
+SUB0360,2024-11-07 00:00:00,2024-11,Podium,19.99,USA,30,25-34,Social Media,No,,Not Churned,1.8,0,35.98,5,Detractor,No
+SUB0361,2024-01-02 00:00:00,2024-01,Pit Lane,9.99,UAE,31,25-34,Social Media,No,,Not Churned,12,11,119.88,4,Detractor,No
+SUB0362,2023-11-28 00:00:00,2023-11,Pit Lane,9.99,Europe,31,25-34,Social Media,Yes,2024-05-11 00:00:00,Too Expensive,5.4,4,53.95,7,Passive,No
+SUB0363,2023-05-10 00:00:00,2023-05,Paddock Club,39.99,UAE,38,35-44,Referral,No,,Not Churned,19.7,19,787.8,6,Detractor,No
+SUB0364,2023-03-07 00:00:00,2023-03,Paddock Club,39.99,Europe,33,25-34,Organic,No,,Not Churned,21.8,21,871.78,5,Detractor,No
+SUB0365,2024-06-09 00:00:00,2024-06,Pit Lane,9.99,Latin America,24,18-24,Organic,No,,Not Churned,6.7,5,66.93,5,Detractor,No
+SUB0366,2023-08-15 00:00:00,2023-08,Pit Lane,9.99,Europe,32,25-34,Paid Ad,No,,Not Churned,16.6,15,165.83,8,Passive,Yes
+SUB0367,2024-11-05 00:00:00,2024-11,Podium,19.99,UAE,28,25-34,Social Media,No,,Not Churned,1.8,0,35.98,7,Passive,No
+SUB0368,2023-02-01 00:00:00,2023-02,Podium,19.99,USA,22,18-24,Paid Ad,Yes,2024-07-05 00:00:00,No Time,17.1,16,341.83,1,Detractor,No
+SUB0369,2024-03-12 00:00:00,2024-03,Pit Lane,9.99,Middle East,27,25-34,Social Media,No,,Not Churned,9.7,8,96.9,10,Promoter,No
+SUB0370,2024-03-30 00:00:00,2024-03,Pit Lane,9.99,USA,31,25-34,Organic,Yes,2024-05-19 00:00:00,Found Alternative,1.6,0,15.98,5,Detractor,No
+SUB0371,2024-09-14 00:00:00,2024-09,Podium,19.99,USA,25,25-34,Paid Ad,Yes,2024-10-30 00:00:00,Found Alternative,1.5,0,29.98,8,Passive,No
+SUB0372,2024-10-01 00:00:00,2024-10,Pit Lane,9.99,Europe,31,25-34,Referral,No,,Not Churned,3,2,29.97,9,Promoter,No
+SUB0373,2023-11-29 00:00:00,2023-11,Pit Lane,9.99,Asia,28,25-34,Social Media,Yes,2024-10-29 00:00:00,Technical Issues,11,10,109.89,7,Passive,No
+SUB0374,2023-10-29 00:00:00,2023-10,Pit Lane,9.99,Latin America,38,35-44,Social Media,No,,Not Churned,14.1,13,140.86,6,Detractor,No
+SUB0375,2023-04-12 00:00:00,2023-04,Podium,19.99,USA,39,35-44,Paid Ad,No,,Not Churned,20.7,19,413.79,8,Passive,No
+SUB0376,2024-11-01 00:00:00,2024-11,Pit Lane,9.99,Asia,31,25-34,Social Media,No,,Not Churned,2,1,19.98,3,Detractor,No
+SUB0377,2023-08-09 00:00:00,2023-08,Pit Lane,9.99,Asia,40,35-44,Organic,No,,Not Churned,16.8,16,167.83,7,Passive,No
+SUB0378,2024-02-28 00:00:00,2024-02,Pit Lane,9.99,Middle East,34,25-34,Organic,Yes,2024-11-16 00:00:00,No Time,8.6,7,85.91,4,Detractor,No
+SUB0379,2024-03-01 00:00:00,2024-03,Podium,19.99,Europe,28,25-34,Social Media,No,,Not Churned,10,9,199.9,8,Passive,No
+SUB0380,2023-11-17 00:00:00,2023-11,Paddock Club,39.99,Europe,23,18-24,Paid Ad,No,,Not Churned,13.5,12,539.86,8,Passive,No
+SUB0381,2023-06-06 00:00:00,2023-06,Pit Lane,9.99,USA,32,25-34,Paid Ad,No,,Not Churned,18.9,18,188.81,6,Detractor,No
+SUB0382,2023-04-04 00:00:00,2023-04,Podium,19.99,Latin America,22,18-24,Referral,No,,Not Churned,20.9,20,417.79,7,Passive,Yes
+SUB0383,2023-04-09 00:00:00,2023-04,Paddock Club,39.99,Europe,31,25-34,Paid Ad,No,,Not Churned,20.8,20,831.79,7,Passive,No
+SUB0384,2023-05-14 00:00:00,2023-05,Podium,19.99,USA,32,25-34,Social Media,No,,Not Churned,19.6,18,391.8,6,Detractor,No
+SUB0385,2024-07-29 00:00:00,2024-07,Pit Lane,9.99,Asia,45,45-54,Social Media,No,,Not Churned,5.1,4,50.95,7,Passive,No
+SUB0386,2024-02-25 00:00:00,2024-02,Pit Lane,9.99,USA,18,18-24,Social Media,Yes,2024-10-28 00:00:00,Too Expensive,8.1,7,80.92,5,Detractor,No
+SUB0387,2023-10-22 00:00:00,2023-10,Pit Lane,9.99,Asia,35,35-44,Referral,No,,Not Churned,14.3,13,142.86,4,Detractor,No
+SUB0388,2024-08-14 00:00:00,2024-08,Podium,19.99,UAE,27,25-34,Paid Ad,No,,Not Churned,4.6,3,91.95,5,Detractor,No
+SUB0389,2024-05-08 00:00:00,2024-05,Pit Lane,9.99,Asia,18,18-24,Organic,Yes,2024-07-04 00:00:00,Found Alternative,1.9,0,18.98,8,Passive,No
+SUB0390,2024-07-23 00:00:00,2024-07,Podium,19.99,USA,23,18-24,Social Media,No,,Not Churned,5.3,4,105.95,7,Passive,No
+SUB0391,2024-08-10 00:00:00,2024-08,Podium,19.99,Europe,27,25-34,Organic,Yes,2024-11-02 00:00:00,Technical Issues,2.8,1,55.97,8,Passive,No
+SUB0392,2024-09-28 00:00:00,2024-09,Podium,19.99,Europe,32,25-34,Organic,No,,Not Churned,3.1,2,61.97,10,Promoter,No
+SUB0393,2023-01-27 00:00:00,2023-01,Pit Lane,9.99,Europe,39,35-44,Paid Ad,No,,Not Churned,23.1,22,230.77,4,Detractor,No
+SUB0394,2023-10-01 00:00:00,2023-10,Paddock Club,39.99,Asia,36,35-44,Social Media,Yes,2024-03-18 00:00:00,Found Alternative,5.6,4,223.94,9,Promoter,No
+SUB0395,2023-12-14 00:00:00,2023-12,Pit Lane,9.99,Middle East,23,18-24,Organic,No,,Not Churned,12.6,11,125.87,6,Detractor,No
+SUB0396,2023-05-27 00:00:00,2023-05,Pit Lane,9.99,USA,18,18-24,Social Media,No,,Not Churned,19.2,18,191.81,8,Passive,No
+SUB0397,2023-05-26 00:00:00,2023-05,Paddock Club,39.99,UAE,29,25-34,Referral,No,,Not Churned,19.2,18,767.81,8,Passive,No
+SUB0398,2023-04-04 00:00:00,2023-04,Paddock Club,39.99,Europe,36,35-44,Social Media,No,,Not Churned,20.9,20,835.79,9,Promoter,No
+SUB0399,2024-03-05 00:00:00,2024-03,Pit Lane,9.99,Latin America,38,35-44,Organic,No,,Not Churned,9.9,9,98.9,5,Detractor,Yes
+SUB0400,2023-11-16 00:00:00,2023-11,Pit Lane,9.99,Asia,33,25-34,Paid Ad,No,,Not Churned,13.5,12,134.86,9,Promoter,No
+SUB0401,2024-08-04 00:00:00,2024-08,Pit Lane,9.99,Europe,18,18-24,Paid Ad,No,,Not Churned,4.9,3,48.95,5,Detractor,No
+SUB0402,2023-06-09 00:00:00,2023-06,Podium,19.99,Europe,38,35-44,Paid Ad,Yes,2023-08-28 00:00:00,Too Expensive,2.6,1,51.97,10,Promoter,No
+SUB0403,2023-10-06 00:00:00,2023-10,Paddock Club,39.99,Europe,36,35-44,Paid Ad,No,,Not Churned,14.8,14,591.85,6,Detractor,No
+SUB0404,2024-09-13 00:00:00,2024-09,Pit Lane,9.99,USA,31,25-34,Social Media,No,,Not Churned,3.6,2,35.96,8,Passive,No
+SUB0405,2024-06-08 00:00:00,2024-06,Pit Lane,9.99,Asia,33,25-34,Organic,Yes,2024-10-26 00:00:00,Too Expensive,4.6,3,45.95,7,Passive,No
+SUB0406,2023-10-18 00:00:00,2023-10,Podium,19.99,Asia,18,18-24,Organic,No,,Not Churned,14.5,13,289.85,8,Passive,No
+SUB0407,2024-06-23 00:00:00,2024-06,Pit Lane,9.99,Europe,38,35-44,Social Media,No,,Not Churned,6.3,5,62.94,6,Detractor,Yes
+SUB0408,2024-02-09 00:00:00,2024-02,Pit Lane,9.99,USA,44,35-44,Organic,No,,Not Churned,10.7,9,106.89,7,Passive,Yes
+SUB0409,2023-07-29 00:00:00,2023-07,Pit Lane,9.99,USA,28,25-34,Paid Ad,Yes,2023-12-14 00:00:00,Lack of Content,4.5,3,44.96,2,Detractor,No
+SUB0410,2023-09-19 00:00:00,2023-09,Podium,19.99,Latin America,31,25-34,Organic,No,,Not Churned,15.4,14,307.85,10,Promoter,No
+SUB0411,2024-05-24 00:00:00,2024-05,Podium,19.99,UAE,27,25-34,Paid Ad,No,,Not Churned,7.3,6,145.93,3,Detractor,No
+SUB0412,2024-01-25 00:00:00,2024-01,Pit Lane,9.99,Europe,19,18-24,Paid Ad,No,,Not Churned,11.2,10,111.89,6,Detractor,No
+SUB0413,2024-07-26 00:00:00,2024-07,Podium,19.99,Europe,29,25-34,Paid Ad,No,,Not Churned,5.2,4,103.95,7,Passive,No
+SUB0414,2023-03-15 00:00:00,2023-03,Pit Lane,9.99,Europe,28,25-34,Paid Ad,Yes,2023-05-27 00:00:00,No Time,2.4,1,23.98,5,Detractor,No
+SUB0415,2023-01-20 00:00:00,2023-01,Podium,19.99,USA,34,25-34,Organic,No,,Not Churned,23.4,22,467.77,6,Detractor,Yes
+SUB0416,2023-11-17 00:00:00,2023-11,Pit Lane,9.99,UAE,28,25-34,Organic,No,,Not Churned,13.5,12,134.86,5,Detractor,No
+SUB0417,2024-10-17 00:00:00,2024-10,Podium,19.99,Asia,27,25-34,Referral,No,,Not Churned,2.5,1,49.97,6,Detractor,No
+SUB0418,2023-01-22 00:00:00,2023-01,Pit Lane,9.99,Europe,33,25-34,Referral,No,,Not Churned,23.3,22,232.77,7,Passive,Yes
+SUB0419,2024-09-24 00:00:00,2024-09,Podium,19.99,Europe,32,25-34,Social Media,No,,Not Churned,3.2,2,63.97,6,Detractor,No
+SUB0420,2024-01-06 00:00:00,2024-01,Podium,19.99,UAE,18,18-24,Referral,Yes,2024-03-30 00:00:00,Lack of Content,2.8,1,55.97,5,Detractor,No
+SUB0421,2024-03-22 00:00:00,2024-03,Pit Lane,9.99,Europe,35,35-44,Social Media,No,,Not Churned,9.3,8,92.91,6,Detractor,No
+SUB0422,2024-02-10 00:00:00,2024-02,Podium,19.99,USA,30,25-34,Referral,No,,Not Churned,10.7,9,213.89,7,Passive,No
+SUB0423,2023-08-15 00:00:00,2023-08,Podium,19.99,Middle East,34,25-34,Organic,No,,Not Churned,16.6,15,331.83,8,Passive,No
+SUB0424,2024-06-06 00:00:00,2024-06,Pit Lane,9.99,Middle East,21,18-24,Paid Ad,No,,Not Churned,6.8,5,67.93,6,Detractor,No
+SUB0425,2023-07-18 00:00:00,2023-07,Pit Lane,9.99,Europe,52,45-54,Paid Ad,No,,Not Churned,17.5,16,174.82,5,Detractor,No
+SUB0426,2024-10-22 00:00:00,2024-10,Pit Lane,9.99,Europe,41,35-44,Organic,No,,Not Churned,2.3,1,22.98,4,Detractor,No
+SUB0427,2023-05-30 00:00:00,2023-05,Podium,19.99,Asia,45,45-54,Organic,No,,Not Churned,19.1,18,381.81,5,Detractor,No
+SUB0428,2023-06-06 00:00:00,2023-06,Pit Lane,9.99,Europe,42,35-44,Social Media,No,,Not Churned,18.9,18,188.81,6,Detractor,No
+SUB0429,2023-07-01 00:00:00,2023-07,Podium,19.99,Asia,18,18-24,Social Media,No,,Not Churned,18,17,359.82,5,Detractor,No
+SUB0430,2024-04-20 00:00:00,2024-04,Podium,19.99,Europe,39,35-44,Organic,No,,Not Churned,8.4,7,167.92,9,Promoter,No
+SUB0431,2024-04-04 00:00:00,2024-04,Pit Lane,9.99,Europe,23,18-24,Referral,No,,Not Churned,8.9,8,88.91,5,Detractor,No
+SUB0432,2024-10-20 00:00:00,2024-10,Pit Lane,9.99,USA,26,25-34,Organic,No,,Not Churned,2.4,1,23.98,6,Detractor,No
+SUB0433,2024-10-04 00:00:00,2024-10,Pit Lane,9.99,Europe,18,18-24,Organic,Yes,2024-12-01 00:00:00,Too Expensive,1.9,0,18.98,8,Passive,No
+SUB0434,2024-04-25 00:00:00,2024-04,Pit Lane,9.99,Latin America,24,18-24,Referral,No,,Not Churned,8.2,7,81.92,7,Passive,No
+SUB0435,2023-10-09 00:00:00,2023-10,Pit Lane,9.99,UAE,30,25-34,Organic,No,,Not Churned,14.8,13,147.85,7,Passive,No
+SUB0436,2023-03-17 00:00:00,2023-03,Pit Lane,9.99,UAE,28,25-34,Referral,No,,Not Churned,21.5,20,214.78,9,Promoter,No
+SUB0437,2023-02-28 00:00:00,2023-02,Pit Lane,9.99,Middle East,30,25-34,Paid Ad,Yes,2024-01-17 00:00:00,Too Expensive,10.6,9,105.89,6,Detractor,No
+SUB0438,2024-10-22 00:00:00,2024-10,Paddock Club,39.99,USA,30,25-34,Social Media,No,,Not Churned,2.3,1,91.98,8,Passive,No
+SUB0439,2024-09-21 00:00:00,2024-09,Pit Lane,9.99,Europe,32,25-34,Organic,No,,Not Churned,3.3,2,32.97,4,Detractor,No
+SUB0440,2024-08-17 00:00:00,2024-08,Podium,19.99,Asia,18,18-24,Social Media,No,,Not Churned,4.5,3,89.96,6,Detractor,No
+SUB0441,2023-02-12 00:00:00,2023-02,Pit Lane,9.99,Europe,20,18-24,Paid Ad,No,,Not Churned,22.6,21,225.77,4,Detractor,No
+SUB0442,2024-10-29 00:00:00,2024-10,Paddock Club,39.99,USA,22,18-24,Referral,No,,Not Churned,2.1,1,83.98,8,Passive,No
+SUB0443,2024-05-28 00:00:00,2024-05,Pit Lane,9.99,USA,33,25-34,Referral,Yes,2024-07-12 00:00:00,No Time,1.5,0,14.98,8,Passive,No
+SUB0444,2023-04-16 00:00:00,2023-04,Podium,19.99,USA,27,25-34,Paid Ad,No,,Not Churned,20.5,19,409.79,7,Passive,No
+SUB0445,2023-03-28 00:00:00,2023-03,Pit Lane,9.99,USA,33,25-34,Paid Ad,No,,Not Churned,21.2,20,211.79,9,Promoter,Yes
+SUB0446,2023-09-11 00:00:00,2023-09,Paddock Club,39.99,Europe,33,25-34,Social Media,No,,Not Churned,15.7,14,627.84,7,Passive,No
+SUB0447,2024-06-20 00:00:00,2024-06,Pit Lane,9.99,Asia,30,25-34,Social Media,No,,Not Churned,6.4,5,63.94,4,Detractor,Yes
+SUB0448,2024-01-17 00:00:00,2024-01,Paddock Club,39.99,USA,18,18-24,Social Media,No,,Not Churned,11.5,10,459.89,10,Promoter,No
+SUB0449,2023-12-13 00:00:00,2023-12,Pit Lane,9.99,Europe,32,25-34,Social Media,No,,Not Churned,12.6,11,125.87,2,Detractor,Yes
+SUB0450,2024-10-08 00:00:00,2024-10,Pit Lane,9.99,USA,30,25-34,Social Media,No,,Not Churned,2.8,1,27.97,7,Passive,Yes
+SUB0451,2023-04-07 00:00:00,2023-04,Podium,19.99,Asia,40,35-44,Organic,No,,Not Churned,20.8,20,415.79,6,Detractor,No
+SUB0452,2023-09-16 00:00:00,2023-09,Paddock Club,39.99,UAE,35,35-44,Social Media,No,,Not Churned,15.5,14,619.84,2,Detractor,No
+SUB0453,2024-09-09 00:00:00,2024-09,Podium,19.99,Middle East,46,45-54,Paid Ad,No,,Not Churned,3.7,2,73.96,6,Detractor,No
+SUB0454,2024-08-19 00:00:00,2024-08,Podium,19.99,USA,23,18-24,Paid Ad,No,,Not Churned,4.4,3,87.96,4,Detractor,No
+SUB0455,2023-11-14 00:00:00,2023-11,Podium,19.99,Europe,26,25-34,Paid Ad,No,,Not Churned,13.6,12,271.86,8,Passive,No
+SUB0456,2024-02-06 00:00:00,2024-02,Pit Lane,9.99,Asia,25,25-34,Social Media,Yes,2024-04-19 00:00:00,Found Alternative,2.4,1,23.98,7,Passive,No
+SUB0457,2024-07-26 00:00:00,2024-07,Podium,19.99,Asia,35,35-44,Organic,No,,Not Churned,5.2,4,103.95,8,Passive,No
+SUB0458,2023-05-11 00:00:00,2023-05,Podium,19.99,UAE,29,25-34,Referral,No,,Not Churned,19.7,19,393.8,5,Detractor,No
+SUB0459,2024-06-23 00:00:00,2024-06,Pit Lane,9.99,UAE,31,25-34,Referral,Yes,2024-11-08 00:00:00,Technical Issues,4.5,3,44.96,6,Detractor,No
+SUB0460,2024-01-06 00:00:00,2024-01,Paddock Club,39.99,UAE,18,18-24,Social Media,Yes,2024-07-12 00:00:00,Lack of Content,6.2,5,247.94,8,Passive,No
+SUB0461,2023-08-08 00:00:00,2023-08,Pit Lane,9.99,USA,29,25-34,Social Media,Yes,2024-10-03 00:00:00,No Time,13.9,13,138.86,6,Detractor,No
+SUB0462,2023-07-16 00:00:00,2023-07,Pit Lane,9.99,Europe,24,18-24,Paid Ad,Yes,2023-10-24 00:00:00,Lack of Content,3.3,2,32.97,4,Detractor,No
+SUB0463,2023-03-21 00:00:00,2023-03,Podium,19.99,Middle East,28,25-34,Referral,No,,Not Churned,21.4,20,427.79,8,Passive,No
+SUB0464,2024-06-03 00:00:00,2024-06,Pit Lane,9.99,Europe,31,25-34,Organic,No,,Not Churned,6.9,6,68.93,6,Detractor,No
+SUB0465,2024-06-23 00:00:00,2024-06,Pit Lane,9.99,USA,31,25-34,Paid Ad,Yes,2024-10-17 00:00:00,Technical Issues,3.8,2,37.96,8,Passive,No
+SUB0466,2023-05-15 00:00:00,2023-05,Pit Lane,9.99,USA,32,25-34,Organic,No,,Not Churned,19.6,18,195.8,5,Detractor,Yes
+SUB0467,2023-07-05 00:00:00,2023-07,Pit Lane,9.99,USA,32,25-34,Social Media,No,,Not Churned,17.9,17,178.82,8,Passive,No
+SUB0468,2023-06-19 00:00:00,2023-06,Podium,19.99,Europe,30,25-34,Social Media,No,,Not Churned,18.4,17,367.82,4,Detractor,Yes
+SUB0469,2024-01-09 00:00:00,2024-01,Pit Lane,9.99,Europe,25,25-34,Organic,No,,Not Churned,11.7,10,116.88,6,Detractor,No
+SUB0470,2024-03-30 00:00:00,2024-03,Pit Lane,9.99,USA,37,35-44,Paid Ad,No,,Not Churned,9.1,8,90.91,4,Detractor,No
+SUB0471,2024-04-04 00:00:00,2024-04,Pit Lane,9.99,UAE,36,35-44,Referral,Yes,2024-07-04 00:00:00,Found Alternative,3,2,29.97,5,Detractor,No
+SUB0472,2024-04-25 00:00:00,2024-04,Pit Lane,9.99,Asia,37,35-44,Social Media,No,,Not Churned,8.2,7,81.92,6,Detractor,No
+SUB0473,2024-11-25 00:00:00,2024-11,Pit Lane,9.99,Latin America,30,25-34,Paid Ad,No,,Not Churned,1.2,0,11.99,10,Promoter,No
+SUB0474,2024-04-17 00:00:00,2024-04,Pit Lane,9.99,USA,38,35-44,Organic,No,,Not Churned,8.5,7,84.92,8,Passive,No
+SUB0475,2024-05-29 00:00:00,2024-05,Paddock Club,39.99,Asia,22,18-24,Social Media,No,,Not Churned,7.1,6,283.93,9,Promoter,No
+SUB0476,2023-07-24 00:00:00,2023-07,Pit Lane,9.99,Asia,29,25-34,Organic,No,,Not Churned,17.3,16,172.83,5,Detractor,Yes
+SUB0477,2023-09-14 00:00:00,2023-09,Paddock Club,39.99,USA,19,18-24,Referral,Yes,2024-06-16 00:00:00,Found Alternative,9.1,8,363.91,7,Passive,No
+SUB0478,2024-07-21 00:00:00,2024-07,Pit Lane,9.99,Europe,27,25-34,Paid Ad,No,,Not Churned,5.4,4,53.95,9,Promoter,No
+SUB0479,2024-06-12 00:00:00,2024-06,Podium,19.99,Asia,28,25-34,Paid Ad,No,,Not Churned,6.6,5,131.93,10,Promoter,No
+SUB0480,2023-06-14 00:00:00,2023-06,Paddock Club,39.99,Europe,18,18-24,Organic,No,,Not Churned,18.6,17,743.81,9,Promoter,No
+SUB0481,2023-05-31 00:00:00,2023-05,Pit Lane,9.99,USA,39,35-44,Organic,No,,Not Churned,19.1,18,190.81,4,Detractor,Yes
+SUB0482,2023-08-16 00:00:00,2023-08,Pit Lane,9.99,USA,28,25-34,Paid Ad,No,,Not Churned,16.5,15,164.84,7,Passive,No
+SUB0483,2023-01-28 00:00:00,2023-01,Pit Lane,9.99,UAE,18,18-24,Paid Ad,Yes,2024-04-07 00:00:00,Technical Issues,14.3,13,142.86,6,Detractor,No
+SUB0484,2024-01-18 00:00:00,2024-01,Podium,19.99,UAE,29,25-34,Referral,No,,Not Churned,11.4,10,227.89,5,Detractor,No
+SUB0485,2024-01-19 00:00:00,2024-01,Pit Lane,9.99,Europe,30,25-34,Organic,Yes,2024-07-30 00:00:00,Too Expensive,6.3,5,62.94,6,Detractor,No
+SUB0486,2024-10-27 00:00:00,2024-10,Pit Lane,9.99,Latin America,21,18-24,Organic,Yes,2024-12-05 00:00:00,Lack of Content,1.3,0,12.99,8,Passive,No
+SUB0487,2023-02-09 00:00:00,2023-02,Podium,19.99,Asia,29,25-34,Organic,No,,Not Churned,22.7,22,453.77,7,Passive,No
+SUB0488,2023-05-23 00:00:00,2023-05,Pit Lane,9.99,UAE,31,25-34,Paid Ad,No,,Not Churned,19.3,18,192.81,9,Promoter,No
+SUB0489,2024-09-22 00:00:00,2024-09,Pit Lane,9.99,Europe,38,35-44,Paid Ad,Yes,2024-11-01 00:00:00,Too Expensive,1.3,0,12.99,4,Detractor,No
+SUB0490,2023-09-20 00:00:00,2023-09,Paddock Club,39.99,Asia,32,25-34,Paid Ad,Yes,2024-01-04 00:00:00,Technical Issues,3.5,2,139.96,8,Passive,No
+SUB0491,2024-09-15 00:00:00,2024-09,Podium,19.99,USA,27,25-34,Referral,No,,Not Churned,3.5,2,69.96,6,Detractor,No
+SUB0492,2023-10-23 00:00:00,2023-10,Pit Lane,9.99,Europe,29,25-34,Referral,Yes,2024-01-23 00:00:00,Too Expensive,3,2,29.97,9,Promoter,No
+SUB0493,2023-09-02 00:00:00,2023-09,Pit Lane,9.99,Latin America,35,35-44,Social Media,No,,Not Churned,16,15,159.84,6,Detractor,No
+SUB0494,2024-04-13 00:00:00,2024-04,Pit Lane,9.99,Europe,27,25-34,Paid Ad,Yes,2024-12-13 00:00:00,No Time,8,7,79.92,5,Detractor,No
+SUB0495,2024-09-03 00:00:00,2024-09,Podium,19.99,Asia,33,25-34,Organic,No,,Not Churned,3.9,2,77.96,6,Detractor,No
+SUB0496,2024-08-11 00:00:00,2024-08,Podium,19.99,Europe,24,18-24,Organic,Yes,2024-09-28 00:00:00,Found Alternative,1.6,0,31.98,4,Detractor,No
+SUB0497,2024-03-15 00:00:00,2024-03,Paddock Club,39.99,Europe,33,25-34,Referral,Yes,2024-10-11 00:00:00,Lack of Content,6.9,6,275.93,9,Promoter,No
+SUB0498,2024-08-07 00:00:00,2024-08,Pit Lane,9.99,Europe,24,18-24,Paid Ad,Yes,2024-11-30 00:00:00,Too Expensive,3.8,2,37.96,10,Promoter,No
+SUB0499,2024-06-20 00:00:00,2024-06,Pit Lane,9.99,Latin America,31,25-34,Organic,No,,Not Churned,6.4,5,63.94,3,Detractor,Yes
+SUB0500,2024-06-22 00:00:00,2024-06,Podium,19.99,UAE,29,25-34,Paid Ad,No,,Not Churned,6.3,5,125.94,9,Promoter,No
+SUB0501,2024-06-03 00:00:00,2024-06,Podium,19.99,Europe,29,25-34,Paid Ad,No,,Not Churned,6.9,6,137.93,4,Detractor,No
+SUB0502,2024-04-26 00:00:00,2024-04,Pit Lane,9.99,UAE,27,25-34,Social Media,Yes,2024-09-02 00:00:00,Found Alternative,4.2,3,41.96,7,Passive,No
+SUB0503,2023-09-17 00:00:00,2023-09,Paddock Club,39.99,Europe,31,25-34,Social Media,No,,Not Churned,15.5,14,619.84,8,Passive,No
+SUB0504,2023-03-11 00:00:00,2023-03,Pit Lane,9.99,Europe,32,25-34,Organic,Yes,2023-07-25 00:00:00,Technical Issues,4.5,3,44.96,5,Detractor,No
+SUB0505,2023-12-07 00:00:00,2023-12,Paddock Club,39.99,Europe,31,25-34,Social Media,Yes,2024-07-04 00:00:00,Technical Issues,6.9,6,275.93,9,Promoter,No
+SUB0506,2023-12-13 00:00:00,2023-12,Paddock Club,39.99,Asia,45,45-54,Paid Ad,No,,Not Churned,12.6,11,503.87,7,Passive,No
+SUB0507,2024-04-20 00:00:00,2024-04,Pit Lane,9.99,USA,32,25-34,Organic,No,,Not Churned,8.4,7,83.92,4,Detractor,No
+SUB0508,2023-07-06 00:00:00,2023-07,Podium,19.99,USA,20,18-24,Paid Ad,No,,Not Churned,17.9,17,357.82,8,Passive,Yes
+SUB0509,2024-04-13 00:00:00,2024-04,Pit Lane,9.99,Asia,29,25-34,Organic,Yes,2024-07-03 00:00:00,Too Expensive,2.7,1,26.97,4,Detractor,No
+SUB0510,2023-07-24 00:00:00,2023-07,Pit Lane,9.99,USA,28,25-34,Organic,No,,Not Churned,17.3,16,172.83,5,Detractor,No
+SUB0511,2023-11-14 00:00:00,2023-11,Pit Lane,9.99,Middle East,20,18-24,Social Media,No,,Not Churned,13.6,12,135.86,3,Detractor,No
+SUB0512,2024-07-10 00:00:00,2024-07,Podium,19.99,Middle East,18,18-24,Social Media,No,,Not Churned,5.7,4,113.94,9,Promoter,Yes
+SUB0513,2024-10-24 00:00:00,2024-10,Podium,19.99,Europe,42,35-44,Organic,Yes,2024-12-15 00:00:00,Too Expensive,1.7,0,33.98,4,Detractor,No
+SUB0514,2024-11-02 00:00:00,2024-11,Pit Lane,9.99,Europe,31,25-34,Social Media,Yes,2024-12-05 00:00:00,Found Alternative,1.1,0,10.99,4,Detractor,No
+SUB0515,2024-03-23 00:00:00,2024-03,Pit Lane,9.99,UAE,32,25-34,Paid Ad,No,,Not Churned,9.3,8,92.91,6,Detractor,No
+SUB0516,2024-01-31 00:00:00,2024-01,Pit Lane,9.99,Latin America,46,45-54,Organic,Yes,2024-06-04 00:00:00,No Time,4.1,3,40.96,3,Detractor,No
+SUB0517,2024-05-24 00:00:00,2024-05,Podium,19.99,Asia,37,35-44,Paid Ad,No,,Not Churned,7.3,6,145.93,6,Detractor,No
+SUB0518,2023-10-01 00:00:00,2023-10,Paddock Club,39.99,Asia,29,25-34,Referral,No,,Not Churned,15,14,599.85,10,Promoter,No
+SUB0519,2023-03-22 00:00:00,2023-03,Pit Lane,9.99,Europe,26,25-34,Organic,No,,Not Churned,21.4,20,213.79,4,Detractor,No
+SUB0520,2023-07-04 00:00:00,2023-07,Paddock Club,39.99,Europe,18,18-24,Paid Ad,No,,Not Churned,17.9,17,715.82,8,Passive,No
+SUB0521,2023-03-23 00:00:00,2023-03,Podium,19.99,Asia,39,35-44,Referral,No,,Not Churned,21.3,20,425.79,8,Passive,No
+SUB0522,2024-04-01 00:00:00,2024-04,Podium,19.99,Europe,18,18-24,Social Media,No,,Not Churned,9,8,179.91,7,Passive,No
+SUB0523,2024-03-30 00:00:00,2024-03,Pit Lane,9.99,UAE,36,35-44,Paid Ad,Yes,2024-05-09 00:00:00,Found Alternative,1.3,0,12.99,1,Detractor,No
+SUB0524,2024-09-21 00:00:00,2024-09,Pit Lane,9.99,Latin America,22,18-24,Paid Ad,No,,Not Churned,3.3,2,32.97,4,Detractor,No
+SUB0525,2023-02-28 00:00:00,2023-02,Pit Lane,9.99,UAE,40,35-44,Organic,Yes,2024-05-18 00:00:00,Found Alternative,14.6,13,145.85,7,Passive,No
+SUB0526,2024-06-09 00:00:00,2024-06,Podium,19.99,Europe,40,35-44,Referral,No,,Not Churned,6.7,5,133.93,5,Detractor,No
+SUB0527,2023-02-01 00:00:00,2023-02,Podium,19.99,Europe,42,35-44,Referral,Yes,2024-11-14 00:00:00,No Time,21.4,20,427.79,4,Detractor,No
+SUB0528,2023-02-05 00:00:00,2023-02,Podium,19.99,UAE,24,18-24,Organic,Yes,2023-11-03 00:00:00,Found Alternative,8.9,8,177.91,8,Passive,No
+SUB0529,2024-01-06 00:00:00,2024-01,Podium,19.99,USA,18,18-24,Social Media,No,,Not Churned,11.8,11,235.88,8,Passive,No
+SUB0530,2024-09-11 00:00:00,2024-09,Podium,19.99,Asia,46,45-54,Paid Ad,Yes,2024-12-07 00:00:00,Found Alternative,2.9,1,57.97,10,Promoter,No
+SUB0531,2024-01-16 00:00:00,2024-01,Pit Lane,9.99,Middle East,39,35-44,Social Media,No,,Not Churned,11.5,10,114.88,8,Passive,Yes
+SUB0532,2023-05-21 00:00:00,2023-05,Pit Lane,9.99,Middle East,36,35-44,Organic,No,,Not Churned,19.4,18,193.81,7,Passive,No
+SUB0533,2024-10-27 00:00:00,2024-10,Pit Lane,9.99,Asia,20,18-24,Paid Ad,Yes,2024-12-03 00:00:00,Too Expensive,1.2,0,11.99,4,Detractor,No
+SUB0534,2023-07-10 00:00:00,2023-07,Paddock Club,39.99,Asia,34,25-34,Organic,No,,Not Churned,17.7,17,707.82,10,Promoter,No
+SUB0535,2024-07-29 00:00:00,2024-07,Paddock Club,39.99,USA,34,25-34,Referral,No,,Not Churned,5.1,4,203.95,7,Passive,No
+SUB0536,2024-04-01 00:00:00,2024-04,Podium,19.99,Europe,18,18-24,Paid Ad,Yes,2024-10-04 00:00:00,Found Alternative,6.1,5,121.94,6,Detractor,No
+SUB0537,2024-05-17 00:00:00,2024-05,Podium,19.99,Asia,45,45-54,Organic,Yes,2024-07-20 00:00:00,Too Expensive,2.1,1,41.98,7,Passive,No
+SUB0538,2024-04-07 00:00:00,2024-04,Paddock Club,39.99,Europe,18,18-24,Social Media,Yes,2024-11-05 00:00:00,No Time,7,6,279.93,9,Promoter,No
+SUB0539,2023-03-31 00:00:00,2023-03,Pit Lane,9.99,Asia,22,18-24,Paid Ad,No,,Not Churned,21.1,20,210.79,4,Detractor,No
+SUB0540,2023-11-24 00:00:00,2023-11,Paddock Club,39.99,USA,36,35-44,Social Media,No,,Not Churned,13.2,12,527.87,5,Detractor,No
+SUB0541,2024-07-17 00:00:00,2024-07,Podium,19.99,Asia,31,25-34,Social Media,No,,Not Churned,5.5,4,109.94,6,Detractor,No
+SUB0542,2023-06-11 00:00:00,2023-06,Pit Lane,9.99,Europe,18,18-24,Referral,No,,Not Churned,18.7,17,186.81,8,Passive,No
+SUB0543,2024-10-15 00:00:00,2024-10,Podium,19.99,Europe,25,25-34,Paid Ad,Yes,2024-12-07 00:00:00,Technical Issues,1.7,0,33.98,8,Passive,No
+SUB0544,2023-08-18 00:00:00,2023-08,Pit Lane,9.99,USA,29,25-34,Referral,Yes,2023-12-28 00:00:00,Lack of Content,4.3,3,42.96,5,Detractor,No
+SUB0545,2023-08-31 00:00:00,2023-08,Paddock Club,39.99,USA,21,18-24,Organic,No,,Not Churned,16,15,639.84,8,Passive,No
+SUB0546,2024-07-21 00:00:00,2024-07,Pit Lane,9.99,Asia,23,18-24,Paid Ad,No,,Not Churned,5.4,4,53.95,4,Detractor,No
+SUB0547,2024-07-18 00:00:00,2024-07,Pit Lane,9.99,Latin America,20,18-24,Paid Ad,Yes,2024-09-08 00:00:00,Too Expensive,1.7,0,16.98,6,Detractor,No
+SUB0548,2023-11-13 00:00:00,2023-11,Paddock Club,39.99,UAE,38,35-44,Referral,No,,Not Churned,13.6,12,543.86,9,Promoter,No
+SUB0549,2024-05-05 00:00:00,2024-05,Pit Lane,9.99,Europe,24,18-24,Referral,No,,Not Churned,7.9,7,78.92,5,Detractor,No
+SUB0550,2024-08-11 00:00:00,2024-08,Pit Lane,9.99,Europe,32,25-34,Paid Ad,Yes,2024-10-20 00:00:00,Too Expensive,2.3,1,22.98,6,Detractor,No
+SUB0551,2024-04-05 00:00:00,2024-04,Podium,19.99,UAE,30,25-34,Paid Ad,No,,Not Churned,8.9,8,177.91,7,Passive,No
+SUB0552,2023-05-12 00:00:00,2023-05,Pit Lane,9.99,USA,20,18-24,Organic,No,,Not Churned,19.7,18,196.8,7,Passive,No
+SUB0553,2024-10-17 00:00:00,2024-10,Pit Lane,9.99,Latin America,40,35-44,Paid Ad,No,,Not Churned,2.5,1,24.98,8,Passive,No
+SUB0554,2023-05-13 00:00:00,2023-05,Podium,19.99,Europe,39,35-44,Paid Ad,No,,Not Churned,19.6,18,391.8,7,Passive,No
+SUB0555,2023-02-26 00:00:00,2023-02,Paddock Club,39.99,UAE,29,25-34,Paid Ad,No,,Not Churned,22.1,21,883.78,8,Passive,No
+SUB0556,2023-11-08 00:00:00,2023-11,Podium,19.99,USA,29,25-34,Organic,Yes,2024-05-21 00:00:00,Lack of Content,6.4,5,127.94,7,Passive,No
+SUB0557,2023-12-21 00:00:00,2023-12,Podium,19.99,Europe,30,25-34,Referral,No,,Not Churned,12.4,11,247.88,8,Passive,No
+SUB0558,2023-10-18 00:00:00,2023-10,Podium,19.99,Europe,30,25-34,Organic,No,,Not Churned,14.5,13,289.85,6,Detractor,No
+SUB0559,2024-10-12 00:00:00,2024-10,Pit Lane,9.99,Asia,18,18-24,Social Media,No,,Not Churned,2.6,1,25.97,5,Detractor,No
+SUB0560,2024-10-02 00:00:00,2024-10,Pit Lane,9.99,Asia,44,35-44,Paid Ad,Yes,2024-12-05 00:00:00,Too Expensive,2.1,1,20.98,8,Passive,No
+SUB0561,2024-05-29 00:00:00,2024-05,Podium,19.99,Europe,33,25-34,Organic,No,,Not Churned,7.1,6,141.93,8,Passive,No
+SUB0562,2024-08-17 00:00:00,2024-08,Pit Lane,9.99,Europe,23,18-24,Paid Ad,Yes,2024-12-09 00:00:00,Technical Issues,3.7,2,36.96,5,Detractor,No
+SUB0563,2024-09-11 00:00:00,2024-09,Pit Lane,9.99,USA,43,35-44,Organic,Yes,2024-12-22 00:00:00,Too Expensive,3.4,2,33.97,8,Passive,No
+SUB0564,2023-01-30 00:00:00,2023-01,Pit Lane,9.99,Latin America,34,25-34,Social Media,Yes,2024-12-16 00:00:00,Technical Issues,22.5,21,224.78,7,Passive,No
+SUB0565,2023-09-29 00:00:00,2023-09,Paddock Club,39.99,USA,42,35-44,Paid Ad,No,,Not Churned,15.1,14,603.85,9,Promoter,No
+SUB0566,2024-03-02 00:00:00,2024-03,Podium,19.99,USA,36,35-44,Paid Ad,No,,Not Churned,10,9,199.9,6,Detractor,Yes
+SUB0567,2024-10-04 00:00:00,2024-10,Podium,19.99,USA,37,35-44,Paid Ad,No,,Not Churned,2.9,1,57.97,6,Detractor,No
+SUB0568,2023-11-06 00:00:00,2023-11,Podium,19.99,Asia,20,18-24,Referral,No,,Not Churned,13.8,13,275.86,8,Passive,No
+SUB0569,2024-02-20 00:00:00,2024-02,Podium,19.99,Europe,35,35-44,Referral,No,,Not Churned,10.3,9,205.9,7,Passive,Yes
+SUB0570,2023-03-03 00:00:00,2023-03,Pit Lane,9.99,Asia,27,25-34,Paid Ad,Yes,2024-05-31 00:00:00,No Time,14.9,14,148.85,6,Detractor,No
+SUB0571,2024-04-20 00:00:00,2024-04,Pit Lane,9.99,USA,37,35-44,Paid Ad,Yes,2024-10-22 00:00:00,Lack of Content,6.1,5,60.94,6,Detractor,No
+SUB0572,2023-11-17 00:00:00,2023-11,Pit Lane,9.99,Asia,20,18-24,Referral,No,,Not Churned,13.5,12,134.86,7,Passive,No
+SUB0573,2023-12-20 00:00:00,2023-12,Pit Lane,9.99,Europe,35,35-44,Paid Ad,No,,Not Churned,12.4,11,123.88,4,Detractor,Yes
+SUB0574,2024-01-15 00:00:00,2024-01,Paddock Club,39.99,Asia,28,25-34,Organic,No,,Not Churned,11.5,10,459.89,6,Detractor,No
+SUB0575,2023-09-05 00:00:00,2023-09,Pit Lane,9.99,Europe,18,18-24,Organic,No,,Not Churned,15.9,15,158.84,7,Passive,No
+SUB0576,2023-09-11 00:00:00,2023-09,Pit Lane,9.99,Asia,35,35-44,Social Media,Yes,2023-11-05 00:00:00,Found Alternative,1.8,0,17.98,6,Detractor,No
+SUB0577,2024-01-29 00:00:00,2024-01,Paddock Club,39.99,Europe,36,35-44,Referral,No,,Not Churned,11.1,10,443.89,8,Passive,No
+SUB0578,2023-06-13 00:00:00,2023-06,Paddock Club,39.99,UAE,32,25-34,Referral,No,,Not Churned,18.6,17,743.81,10,Promoter,No
+SUB0579,2023-11-17 00:00:00,2023-11,Pit Lane,9.99,Asia,32,25-34,Organic,Yes,2024-03-07 00:00:00,No Time,3.6,2,35.96,6,Detractor,No
+SUB0580,2024-06-11 00:00:00,2024-06,Podium,19.99,Europe,34,25-34,Organic,No,,Not Churned,6.7,5,133.93,5,Detractor,No
+SUB0581,2024-05-24 00:00:00,2024-05,Pit Lane,9.99,USA,31,25-34,Paid Ad,Yes,2024-10-01 00:00:00,Technical Issues,4.3,3,42.96,9,Promoter,No
+SUB0582,2024-04-13 00:00:00,2024-04,Pit Lane,9.99,UAE,25,25-34,Paid Ad,No,,Not Churned,8.6,7,85.91,4,Detractor,No
+SUB0583,2023-12-28 00:00:00,2023-12,Pit Lane,9.99,Europe,19,18-24,Organic,Yes,2024-06-19 00:00:00,No Time,5.7,4,56.94,7,Passive,No
+SUB0584,2024-09-03 00:00:00,2024-09,Pit Lane,9.99,Europe,39,35-44,Paid Ad,No,,Not Churned,3.9,2,38.96,10,Promoter,No
+SUB0585,2024-04-26 00:00:00,2024-04,Pit Lane,9.99,Europe,39,35-44,Organic,Yes,2024-05-28 00:00:00,Too Expensive,1.1,0,10.99,8,Passive,No
+SUB0586,2024-03-17 00:00:00,2024-03,Pit Lane,9.99,USA,33,25-34,Referral,Yes,2024-08-29 00:00:00,Found Alternative,5.4,4,53.95,8,Passive,No
+SUB0587,2024-02-17 00:00:00,2024-02,Podium,19.99,UAE,28,25-34,Organic,No,,Not Churned,10.4,9,207.9,5,Detractor,No
+SUB0588,2024-08-06 00:00:00,2024-08,Pit Lane,9.99,USA,37,35-44,Paid Ad,No,,Not Churned,4.8,3,47.95,6,Detractor,No
+SUB0589,2023-10-23 00:00:00,2023-10,Pit Lane,9.99,USA,30,25-34,Referral,Yes,2024-08-06 00:00:00,No Time,9.5,8,94.9,5,Detractor,No
+SUB0590,2024-07-17 00:00:00,2024-07,Podium,19.99,USA,33,25-34,Organic,No,,Not Churned,5.5,4,109.94,10,Promoter,No
+SUB0591,2024-11-27 00:00:00,2024-11,Podium,19.99,Asia,18,18-24,Social Media,No,,Not Churned,1.1,0,21.99,6,Detractor,No
+SUB0592,2023-04-10 00:00:00,2023-04,Podium,19.99,USA,24,18-24,Paid Ad,No,,Not Churned,20.7,20,413.79,7,Passive,No
+SUB0593,2023-12-14 00:00:00,2023-12,Pit Lane,9.99,Asia,28,25-34,Social Media,No,,Not Churned,12.6,11,125.87,8,Passive,No
+SUB0594,2023-05-28 00:00:00,2023-05,Podium,19.99,Latin America,26,25-34,Paid Ad,Yes,2024-11-29 00:00:00,No Time,18.1,17,361.82,7,Passive,No
+SUB0595,2024-05-27 00:00:00,2024-05,Pit Lane,9.99,Asia,22,18-24,Referral,Yes,2024-07-05 00:00:00,Lack of Content,1.3,0,12.99,5,Detractor,No
+SUB0596,2023-12-08 00:00:00,2023-12,Pit Lane,9.99,Europe,26,25-34,Paid Ad,No,,Not Churned,12.8,11,127.87,2,Detractor,No
+SUB0597,2023-06-02 00:00:00,2023-06,Podium,19.99,USA,29,25-34,Organic,No,,Not Churned,19,18,379.81,10,Promoter,No
+SUB0598,2023-12-02 00:00:00,2023-12,Pit Lane,9.99,Asia,25,25-34,Social Media,No,,Not Churned,13,12,129.87,6,Detractor,No
+SUB0599,2024-02-07 00:00:00,2024-02,Podium,19.99,USA,37,35-44,Social Media,No,,Not Churned,10.8,9,215.89,8,Passive,No
+SUB0600,2023-11-03 00:00:00,2023-11,Podium,19.99,Europe,42,35-44,Organic,No,,Not Churned,13.9,13,277.86,8,Passive,No
+SUB0601,2024-06-05 00:00:00,2024-06,Pit Lane,9.99,Europe,33,25-34,Social Media,No,,Not Churned,6.9,5,68.93,6,Detractor,No
+SUB0602,2023-11-03 00:00:00,2023-11,Podium,19.99,USA,32,25-34,Organic,No,,Not Churned,13.9,13,277.86,8,Passive,Yes
+SUB0603,2023-12-06 00:00:00,2023-12,Podium,19.99,Europe,23,18-24,Referral,No,,Not Churned,12.8,12,255.87,8,Passive,No
+SUB0604,2024-08-20 00:00:00,2024-08,Pit Lane,9.99,Europe,28,25-34,Paid Ad,Yes,2024-12-20 00:00:00,Too Expensive,4,3,39.96,3,Detractor,No
+SUB0605,2024-09-03 00:00:00,2024-09,Paddock Club,39.99,USA,32,25-34,Paid Ad,No,,Not Churned,3.9,2,155.96,7,Passive,No
+SUB0606,2024-08-15 00:00:00,2024-08,Pit Lane,9.99,Asia,25,25-34,Organic,No,,Not Churned,4.5,3,44.96,8,Passive,No
+SUB0607,2024-08-20 00:00:00,2024-08,Podium,19.99,Europe,19,18-24,Social Media,No,,Not Churned,4.4,3,87.96,9,Promoter,No
+SUB0608,2024-09-26 00:00:00,2024-09,Pit Lane,9.99,Europe,34,25-34,Organic,No,,Not Churned,3.2,2,31.97,4,Detractor,No
+SUB0609,2024-11-28 00:00:00,2024-11,Pit Lane,9.99,USA,36,35-44,Social Media,Yes,2024-12-28 00:00:00,Lack of Content,1,0,9.99,7,Passive,No
+SUB0610,2023-01-20 00:00:00,2023-01,Pit Lane,9.99,UAE,22,18-24,Organic,No,,Not Churned,23.4,22,233.77,2,Detractor,No
+SUB0611,2024-02-27 00:00:00,2024-02,Pit Lane,9.99,Europe,28,25-34,Paid Ad,No,,Not Churned,10.1,9,100.9,7,Passive,No
+SUB0612,2024-09-18 00:00:00,2024-09,Podium,19.99,UAE,36,35-44,Organic,No,,Not Churned,3.4,2,67.97,6,Detractor,No
+SUB0613,2023-03-05 00:00:00,2023-03,Paddock Club,39.99,Europe,27,25-34,Social Media,No,,Not Churned,21.9,21,875.78,9,Promoter,No
+SUB0614,2024-07-28 00:00:00,2024-07,Podium,19.99,UAE,37,35-44,Paid Ad,Yes,2024-11-19 00:00:00,No Time,3.7,2,73.96,8,Passive,No
+SUB0615,2024-06-22 00:00:00,2024-06,Paddock Club,39.99,Latin America,30,25-34,Paid Ad,No,,Not Churned,6.3,5,251.94,7,Passive,No
+SUB0616,2024-04-15 00:00:00,2024-04,Pit Lane,9.99,UAE,33,25-34,Referral,No,,Not Churned,8.5,7,84.92,9,Promoter,No
+SUB0617,2023-12-29 00:00:00,2023-12,Pit Lane,9.99,USA,41,35-44,Paid Ad,No,,Not Churned,12.1,11,120.88,7,Passive,No
+SUB0618,2024-11-28 00:00:00,2024-11,Pit Lane,9.99,Asia,47,45-54,Organic,No,,Not Churned,1.1,0,10.99,8,Passive,No
+SUB0619,2024-09-16 00:00:00,2024-09,Paddock Club,39.99,USA,45,45-54,Organic,No,,Not Churned,3.5,2,139.96,7,Passive,No
+SUB0620,2023-10-13 00:00:00,2023-10,Pit Lane,9.99,Europe,33,25-34,Organic,No,,Not Churned,14.6,13,145.85,2,Detractor,No
+SUB0621,2023-11-01 00:00:00,2023-11,Pit Lane,9.99,Latin America,39,35-44,Social Media,No,,Not Churned,14,13,139.86,7,Passive,No
+SUB0622,2024-05-15 00:00:00,2024-05,Podium,19.99,USA,46,45-54,Paid Ad,Yes,2024-09-11 00:00:00,Technical Issues,3.9,2,77.96,6,Detractor,No
+SUB0623,2023-10-08 00:00:00,2023-10,Podium,19.99,Europe,31,25-34,Social Media,Yes,2024-08-26 00:00:00,Technical Issues,10.6,9,211.89,4,Detractor,No
+SUB0624,2024-01-24 00:00:00,2024-01,Podium,19.99,USA,25,25-34,Organic,No,,Not Churned,11.2,10,223.89,6,Detractor,No
+SUB0625,2023-12-20 00:00:00,2023-12,Podium,19.99,USA,27,25-34,Paid Ad,No,,Not Churned,12.4,11,247.88,10,Promoter,No
+SUB0626,2023-10-25 00:00:00,2023-10,Podium,19.99,Asia,43,35-44,Paid Ad,Yes,2024-11-23 00:00:00,Too Expensive,13,12,259.87,8,Passive,No
+SUB0627,2023-12-21 00:00:00,2023-12,Podium,19.99,Asia,23,18-24,Social Media,No,,Not Churned,12.4,11,247.88,10,Promoter,No
+SUB0628,2024-05-05 00:00:00,2024-05,Pit Lane,9.99,Europe,34,25-34,Organic,Yes,2024-10-19 00:00:00,Found Alternative,5.5,4,54.94,6,Detractor,No
+SUB0629,2024-07-29 00:00:00,2024-07,Podium,19.99,USA,24,18-24,Referral,No,,Not Churned,5.1,4,101.95,6,Detractor,No
+SUB0630,2024-09-22 00:00:00,2024-09,Podium,19.99,Asia,21,18-24,Social Media,No,,Not Churned,3.3,2,65.97,8,Passive,No
+SUB0631,2023-02-21 00:00:00,2023-02,Paddock Club,39.99,Asia,23,18-24,Paid Ad,No,,Not Churned,22.3,21,891.78,9,Promoter,No
+SUB0632,2024-10-15 00:00:00,2024-10,Podium,19.99,Latin America,33,25-34,Paid Ad,Yes,2024-11-20 00:00:00,No Time,1.2,0,23.99,8,Passive,No
+SUB0633,2023-12-05 00:00:00,2023-12,Paddock Club,39.99,USA,29,25-34,Social Media,No,,Not Churned,12.9,12,515.87,7,Passive,No
+SUB0634,2023-05-21 00:00:00,2023-05,Pit Lane,9.99,Latin America,29,25-34,Social Media,Yes,2023-11-28 00:00:00,No Time,6.3,5,62.94,5,Detractor,No
+SUB0635,2024-10-30 00:00:00,2024-10,Pit Lane,9.99,Europe,18,18-24,Paid Ad,No,,Not Churned,2,1,19.98,6,Detractor,No
+SUB0636,2024-05-03 00:00:00,2024-05,Pit Lane,9.99,Europe,30,25-34,Paid Ad,No,,Not Churned,8,7,79.92,7,Passive,No
+SUB0637,2023-10-22 00:00:00,2023-10,Pit Lane,9.99,Asia,22,18-24,Referral,No,,Not Churned,14.3,13,142.86,5,Detractor,No
+SUB0638,2023-04-02 00:00:00,2023-04,Pit Lane,9.99,Europe,27,25-34,Referral,No,,Not Churned,21,20,209.79,6,Detractor,No
+SUB0639,2023-02-08 00:00:00,2023-02,Pit Lane,9.99,Asia,38,35-44,Paid Ad,No,,Not Churned,22.7,22,226.77,5,Detractor,Yes
+SUB0640,2023-06-30 00:00:00,2023-06,Pit Lane,9.99,UAE,35,35-44,Referral,No,,Not Churned,18.1,17,180.82,3,Detractor,Yes
+SUB0641,2024-02-11 00:00:00,2024-02,Podium,19.99,Europe,21,18-24,Organic,No,,Not Churned,10.6,9,211.89,7,Passive,No
+SUB0642,2023-10-24 00:00:00,2023-10,Podium,19.99,Europe,30,25-34,Referral,No,,Not Churned,14.3,13,285.86,5,Detractor,Yes
+SUB0643,2024-08-04 00:00:00,2024-08,Pit Lane,9.99,Asia,21,18-24,Paid Ad,No,,Not Churned,4.9,3,48.95,2,Detractor,No
+SUB0644,2023-12-10 00:00:00,2023-12,Podium,19.99,USA,34,25-34,Organic,No,,Not Churned,12.7,11,253.87,7,Passive,No
+SUB0645,2024-07-10 00:00:00,2024-07,Pit Lane,9.99,USA,21,18-24,Social Media,No,,Not Churned,5.7,4,56.94,5,Detractor,No
+SUB0646,2023-05-18 00:00:00,2023-05,Pit Lane,9.99,Asia,40,35-44,Referral,No,,Not Churned,19.5,18,194.8,6,Detractor,No
+SUB0647,2023-07-17 00:00:00,2023-07,Pit Lane,9.99,Asia,26,25-34,Referral,No,,Not Churned,17.5,16,174.82,2,Detractor,No
+SUB0648,2024-04-14 00:00:00,2024-04,Podium,19.99,Europe,46,45-54,Paid Ad,No,,Not Churned,8.6,7,171.91,10,Promoter,No
+SUB0649,2023-01-15 00:00:00,2023-01,Pit Lane,9.99,USA,18,18-24,Paid Ad,No,,Not Churned,23.5,22,234.76,8,Passive,No
+SUB0650,2024-08-04 00:00:00,2024-08,Podium,19.99,Europe,26,25-34,Organic,No,,Not Churned,4.9,3,97.95,5,Detractor,No
+SUB0651,2024-09-17 00:00:00,2024-09,Pit Lane,9.99,Europe,34,25-34,Social Media,No,,Not Churned,3.4,2,33.97,6,Detractor,No
+SUB0652,2024-03-13 00:00:00,2024-03,Paddock Club,39.99,USA,40,35-44,Paid Ad,No,,Not Churned,9.6,8,383.9,7,Passive,No
+SUB0653,2024-11-16 00:00:00,2024-11,Pit Lane,9.99,UAE,34,25-34,Organic,Yes,2024-12-20 00:00:00,No Time,1.1,0,10.99,7,Passive,No
+SUB0654,2023-11-28 00:00:00,2023-11,Pit Lane,9.99,USA,34,25-34,Paid Ad,No,,Not Churned,13.1,12,130.87,5,Detractor,Yes
+SUB0655,2024-01-28 00:00:00,2024-01,Pit Lane,9.99,Europe,33,25-34,Paid Ad,Yes,2024-07-12 00:00:00,Found Alternative,5.5,4,54.94,7,Passive,No
+SUB0656,2023-11-06 00:00:00,2023-11,Podium,19.99,Asia,18,18-24,Paid Ad,No,,Not Churned,13.8,13,275.86,6,Detractor,No
+SUB0657,2023-09-25 00:00:00,2023-09,Pit Lane,9.99,USA,25,25-34,Social Media,No,,Not Churned,15.2,14,151.85,5,Detractor,No
+SUB0658,2023-03-05 00:00:00,2023-03,Paddock Club,39.99,USA,26,25-34,Referral,No,,Not Churned,21.9,21,875.78,8,Passive,No
+SUB0659,2023-06-13 00:00:00,2023-06,Pit Lane,9.99,Europe,40,35-44,Organic,No,,Not Churned,18.6,17,185.81,5,Detractor,No
+SUB0660,2023-11-15 00:00:00,2023-11,Pit Lane,9.99,UAE,32,25-34,Paid Ad,No,,Not Churned,13.5,12,134.86,2,Detractor,No
+SUB0661,2023-10-30 00:00:00,2023-10,Podium,19.99,Middle East,25,25-34,Organic,No,,Not Churned,14.1,13,281.86,7,Passive,No
+SUB0662,2023-05-17 00:00:00,2023-05,Pit Lane,9.99,USA,28,25-34,Referral,No,,Not Churned,19.5,18,194.8,7,Passive,No
+SUB0663,2024-09-12 00:00:00,2024-09,Pit Lane,9.99,USA,32,25-34,Paid Ad,Yes,2024-12-21 00:00:00,No Time,3.3,2,32.97,4,Detractor,No
+SUB0664,2024-07-04 00:00:00,2024-07,Pit Lane,9.99,Europe,27,25-34,Referral,No,,Not Churned,5.9,5,58.94,8,Passive,No
+SUB0665,2023-09-11 00:00:00,2023-09,Podium,19.99,Europe,37,35-44,Social Media,No,,Not Churned,15.7,14,313.84,5,Detractor,No
+SUB0666,2023-03-25 00:00:00,2023-03,Podium,19.99,Middle East,31,25-34,Referral,No,,Not Churned,21.3,20,425.79,9,Promoter,No
+SUB0667,2024-01-06 00:00:00,2024-01,Podium,19.99,Europe,35,35-44,Referral,Yes,2024-11-19 00:00:00,Too Expensive,10.4,9,207.9,7,Passive,No
+SUB0668,2023-03-05 00:00:00,2023-03,Pit Lane,9.99,USA,37,35-44,Organic,No,,Not Churned,21.9,21,218.78,5,Detractor,No
+SUB0669,2023-07-27 00:00:00,2023-07,Paddock Club,39.99,Asia,23,18-24,Organic,No,,Not Churned,17.2,16,687.83,6,Detractor,No
+SUB0670,2023-12-02 00:00:00,2023-12,Paddock Club,39.99,UAE,38,35-44,Organic,No,,Not Churned,13,12,519.87,10,Promoter,No
+SUB0671,2024-11-27 00:00:00,2024-11,Paddock Club,39.99,Europe,30,25-34,Referral,No,,Not Churned,1.1,0,43.99,6,Detractor,No
+SUB0672,2023-04-04 00:00:00,2023-04,Pit Lane,9.99,Europe,36,35-44,Social Media,No,,Not Churned,20.9,20,208.79,6,Detractor,No
+SUB0673,2023-02-26 00:00:00,2023-02,Pit Lane,9.99,UAE,22,18-24,Paid Ad,No,,Not Churned,22.1,21,220.78,7,Passive,No
+SUB0674,2024-04-12 00:00:00,2024-04,Paddock Club,39.99,USA,29,25-34,Organic,No,,Not Churned,8.6,7,343.91,5,Detractor,No
+SUB0675,2024-11-19 00:00:00,2024-11,Podium,19.99,Asia,37,35-44,Social Media,No,,Not Churned,1.4,0,27.99,7,Passive,No
+SUB0676,2024-02-10 00:00:00,2024-02,Podium,19.99,Asia,23,18-24,Paid Ad,Yes,2024-03-12 00:00:00,Lack of Content,1,0,19.99,10,Promoter,No
+SUB0677,2024-08-15 00:00:00,2024-08,Pit Lane,9.99,Asia,28,25-34,Social Media,Yes,2024-11-07 00:00:00,Found Alternative,2.8,1,27.97,7,Passive,No
+SUB0678,2023-03-07 00:00:00,2023-03,Podium,19.99,Europe,26,25-34,Paid Ad,No,,Not Churned,21.8,21,435.78,5,Detractor,Yes
+SUB0679,2023-03-12 00:00:00,2023-03,Pit Lane,9.99,Asia,32,25-34,Paid Ad,No,,Not Churned,21.7,21,216.78,9,Promoter,No
+SUB0680,2023-10-21 00:00:00,2023-10,Pit Lane,9.99,USA,20,18-24,Paid Ad,Yes,2024-12-17 00:00:00,Lack of Content,13.9,13,138.86,10,Promoter,No
+SUB0681,2024-10-18 00:00:00,2024-10,Pit Lane,9.99,UAE,28,25-34,Organic,No,,Not Churned,2.4,1,23.98,7,Passive,No
+SUB0682,2024-03-06 00:00:00,2024-03,Podium,19.99,USA,33,25-34,Social Media,No,,Not Churned,9.9,9,197.9,9,Promoter,No
+SUB0683,2024-04-04 00:00:00,2024-04,Podium,19.99,Asia,34,25-34,Referral,No,,Not Churned,8.9,8,177.91,8,Passive,No
+SUB0684,2024-01-20 00:00:00,2024-01,Pit Lane,9.99,USA,43,35-44,Referral,Yes,2024-11-21 00:00:00,Lack of Content,10.1,9,100.9,7,Passive,No
+SUB0685,2024-10-31 00:00:00,2024-10,Pit Lane,9.99,USA,18,18-24,Organic,No,,Not Churned,2,1,19.98,7,Passive,Yes
+SUB0686,2024-07-04 00:00:00,2024-07,Paddock Club,39.99,Asia,18,18-24,Social Media,No,,Not Churned,5.9,5,235.94,6,Detractor,No
+SUB0687,2023-08-17 00:00:00,2023-08,Pit Lane,9.99,UAE,18,18-24,Organic,No,,Not Churned,16.5,15,164.84,6,Detractor,No
+SUB0688,2023-11-02 00:00:00,2023-11,Podium,19.99,Europe,39,35-44,Organic,No,,Not Churned,14,13,279.86,6,Detractor,No
+SUB0689,2024-03-10 00:00:00,2024-03,Podium,19.99,USA,40,35-44,Referral,No,,Not Churned,9.7,8,193.9,6,Detractor,No
+SUB0690,2023-09-11 00:00:00,2023-09,Pit Lane,9.99,Europe,18,18-24,Paid Ad,No,,Not Churned,15.7,14,156.84,1,Detractor,Yes
+SUB0691,2023-07-13 00:00:00,2023-07,Podium,19.99,Europe,34,25-34,Referral,No,,Not Churned,17.6,16,351.82,8,Passive,No
+SUB0692,2023-04-26 00:00:00,2023-04,Pit Lane,9.99,USA,32,25-34,Referral,Yes,2024-07-28 00:00:00,Technical Issues,15.1,14,150.85,7,Passive,No
+SUB0693,2023-01-17 00:00:00,2023-01,Podium,19.99,UAE,21,18-24,Referral,No,,Not Churned,23.5,22,469.76,6,Detractor,Yes
+SUB0694,2024-08-31 00:00:00,2024-08,Podium,19.99,Latin America,28,25-34,Organic,Yes,2024-12-15 00:00:00,Too Expensive,3.5,2,69.96,7,Passive,No
+SUB0695,2023-09-08 00:00:00,2023-09,Pit Lane,9.99,UAE,32,25-34,Organic,No,,Not Churned,15.8,15,157.84,7,Passive,No
+SUB0696,2023-08-28 00:00:00,2023-08,Pit Lane,9.99,Europe,40,35-44,Organic,No,,Not Churned,16.1,15,160.84,5,Detractor,No
+SUB0697,2023-02-27 00:00:00,2023-02,Podium,19.99,USA,27,25-34,Referral,Yes,2024-01-19 00:00:00,Lack of Content,10.7,9,213.89,6,Detractor,No
+SUB0698,2024-08-12 00:00:00,2024-08,Pit Lane,9.99,Europe,26,25-34,Organic,Yes,2024-11-26 00:00:00,Found Alternative,3.5,2,34.97,6,Detractor,No
+SUB0699,2023-08-31 00:00:00,2023-08,Pit Lane,9.99,Europe,21,18-24,Paid Ad,Yes,2023-12-12 00:00:00,Technical Issues,3.4,2,33.97,5,Detractor,No
+SUB0700,2023-08-15 00:00:00,2023-08,Paddock Club,39.99,USA,45,45-54,Paid Ad,No,,Not Churned,16.6,15,663.83,8,Passive,No
+SUB0701,2024-07-24 00:00:00,2024-07,Paddock Club,39.99,Europe,41,35-44,Social Media,No,,Not Churned,5.3,4,211.95,10,Promoter,No
+SUB0702,2023-06-29 00:00:00,2023-06,Pit Lane,9.99,Asia,25,25-34,Organic,No,,Not Churned,18.1,17,180.82,9,Promoter,No
+SUB0703,2024-05-22 00:00:00,2024-05,Podium,19.99,Asia,32,25-34,Paid Ad,Yes,2024-09-17 00:00:00,No Time,3.9,2,77.96,9,Promoter,No
+SUB0704,2024-06-21 00:00:00,2024-06,Podium,19.99,Europe,29,25-34,Referral,No,,Not Churned,6.3,5,125.94,7,Passive,No
+SUB0705,2023-06-02 00:00:00,2023-06,Podium,19.99,USA,36,35-44,Organic,No,,Not Churned,19,18,379.81,4,Detractor,No
+SUB0706,2024-07-04 00:00:00,2024-07,Pit Lane,9.99,UAE,30,25-34,Paid Ad,No,,Not Churned,5.9,5,58.94,7,Passive,No
+SUB0707,2023-11-04 00:00:00,2023-11,Podium,19.99,Europe,41,35-44,Organic,No,,Not Churned,13.9,13,277.86,6,Detractor,No
+SUB0708,2024-04-19 00:00:00,2024-04,Pit Lane,9.99,Latin America,44,35-44,Paid Ad,No,,Not Churned,8.4,7,83.92,8,Passive,No
+SUB0709,2024-03-02 00:00:00,2024-03,Podium,19.99,Europe,34,25-34,Social Media,No,,Not Churned,10,9,199.9,5,Detractor,No
+SUB0710,2023-09-06 00:00:00,2023-09,Pit Lane,9.99,Europe,21,18-24,Organic,Yes,2024-03-23 00:00:00,Too Expensive,6.5,5,64.94,5,Detractor,No
+SUB0711,2024-04-05 00:00:00,2024-04,Pit Lane,9.99,Europe,24,18-24,Social Media,No,,Not Churned,8.9,8,88.91,6,Detractor,Yes
+SUB0712,2023-07-15 00:00:00,2023-07,Pit Lane,9.99,USA,27,25-34,Organic,Yes,2024-02-23 00:00:00,Technical Issues,7.3,6,72.93,5,Detractor,No
+SUB0713,2024-09-09 00:00:00,2024-09,Pit Lane,9.99,Asia,28,25-34,Social Media,Yes,2024-10-18 00:00:00,Lack of Content,1.3,0,12.99,5,Detractor,No
+SUB0714,2024-08-24 00:00:00,2024-08,Paddock Club,39.99,Middle East,18,18-24,Referral,No,,Not Churned,4.2,3,167.96,10,Promoter,No
+SUB0715,2024-05-05 00:00:00,2024-05,Pit Lane,9.99,USA,25,25-34,Paid Ad,Yes,2024-08-28 00:00:00,Found Alternative,3.8,2,37.96,8,Passive,No
+SUB0716,2023-01-16 00:00:00,2023-01,Pit Lane,9.99,USA,31,25-34,Referral,Yes,2023-08-28 00:00:00,Too Expensive,7.4,6,73.93,7,Passive,No
+SUB0717,2024-05-05 00:00:00,2024-05,Pit Lane,9.99,USA,29,25-34,Paid Ad,No,,Not Churned,7.9,7,78.92,7,Passive,No
+SUB0718,2023-07-29 00:00:00,2023-07,Podium,19.99,UAE,34,25-34,Referral,No,,Not Churned,17.1,16,341.83,8,Passive,No
+SUB0719,2023-11-26 00:00:00,2023-11,Pit Lane,9.99,Europe,18,18-24,Social Media,No,,Not Churned,13.2,12,131.87,5,Detractor,No
+SUB0720,2024-06-30 00:00:00,2024-06,Paddock Club,39.99,UAE,18,18-24,Paid Ad,No,,Not Churned,6,5,239.94,7,Passive,No
+SUB0721,2024-01-04 00:00:00,2024-01,Pit Lane,9.99,Europe,33,25-34,Organic,No,,Not Churned,11.9,11,118.88,4,Detractor,No
+SUB0722,2023-04-11 00:00:00,2023-04,Podium,19.99,Asia,27,25-34,Paid Ad,No,,Not Churned,20.7,20,413.79,5,Detractor,No
+SUB0723,2023-11-24 00:00:00,2023-11,Pit Lane,9.99,Europe,43,35-44,Organic,No,,Not Churned,13.2,12,131.87,4,Detractor,No
+SUB0724,2024-02-28 00:00:00,2024-02,Pit Lane,9.99,USA,22,18-24,Paid Ad,Yes,2024-07-20 00:00:00,Lack of Content,4.7,3,46.95,5,Detractor,No
+SUB0725,2023-01-17 00:00:00,2023-01,Pit Lane,9.99,Europe,35,35-44,Organic,Yes,2024-10-06 00:00:00,Technical Issues,20.6,19,205.79,8,Passive,No
+SUB0726,2024-03-03 00:00:00,2024-03,Podium,19.99,Europe,24,18-24,Paid Ad,Yes,2024-07-11 00:00:00,Found Alternative,4.3,3,85.96,9,Promoter,No
+SUB0727,2023-08-24 00:00:00,2023-08,Podium,19.99,Europe,35,35-44,Paid Ad,No,,Not Churned,16.3,15,325.84,9,Promoter,No
+SUB0728,2024-05-26 00:00:00,2024-05,Podium,19.99,Asia,49,45-54,Paid Ad,No,,Not Churned,7.2,6,143.93,6,Detractor,No
+SUB0729,2023-12-12 00:00:00,2023-12,Pit Lane,9.99,Europe,40,35-44,Referral,Yes,2024-09-17 00:00:00,No Time,9.2,8,91.91,6,Detractor,No
+SUB0730,2024-04-16 00:00:00,2024-04,Pit Lane,9.99,Middle East,32,25-34,Organic,Yes,2024-12-05 00:00:00,Found Alternative,7.7,6,76.92,8,Passive,No
+SUB0731,2023-06-23 00:00:00,2023-06,Podium,19.99,UAE,36,35-44,Social Media,Yes,2024-12-04 00:00:00,Lack of Content,17.4,16,347.83,5,Detractor,No
+SUB0732,2024-07-09 00:00:00,2024-07,Pit Lane,9.99,Asia,38,35-44,Paid Ad,No,,Not Churned,5.7,4,56.94,7,Passive,No
+SUB0733,2024-06-20 00:00:00,2024-06,Pit Lane,9.99,USA,43,35-44,Organic,Yes,2024-08-08 00:00:00,Too Expensive,1.6,0,15.98,8,Passive,No
+SUB0734,2023-01-07 00:00:00,2023-01,Podium,19.99,Europe,25,25-34,Paid Ad,No,,Not Churned,23.8,23,475.76,8,Passive,No
+SUB0735,2023-08-25 00:00:00,2023-08,Podium,19.99,Europe,24,18-24,Organic,Yes,2023-12-10 00:00:00,Too Expensive,3.5,2,69.96,8,Passive,No
+SUB0736,2023-08-12 00:00:00,2023-08,Pit Lane,9.99,Europe,24,18-24,Organic,No,,Not Churned,16.7,15,166.83,8,Passive,No
+SUB0737,2024-09-24 00:00:00,2024-09,Pit Lane,9.99,Middle East,28,25-34,Referral,No,,Not Churned,3.2,2,31.97,6,Detractor,No
+SUB0738,2024-05-09 00:00:00,2024-05,Pit Lane,9.99,Europe,22,18-24,Paid Ad,No,,Not Churned,7.8,6,77.92,9,Promoter,Yes
+SUB0739,2024-06-28 00:00:00,2024-06,Podium,19.99,Europe,32,25-34,Paid Ad,No,,Not Churned,6.1,5,121.94,7,Passive,Yes
+SUB0740,2024-06-26 00:00:00,2024-06,Pit Lane,9.99,Asia,31,25-34,Organic,No,,Not Churned,6.2,5,61.94,10,Promoter,No
+SUB0741,2023-10-21 00:00:00,2023-10,Pit Lane,9.99,UAE,36,35-44,Organic,Yes,2024-11-11 00:00:00,No Time,12.7,11,126.87,6,Detractor,No
+SUB0742,2023-07-03 00:00:00,2023-07,Pit Lane,9.99,Europe,32,25-34,Organic,Yes,2023-11-08 00:00:00,Technical Issues,4.2,3,41.96,3,Detractor,No
+SUB0743,2023-06-02 00:00:00,2023-06,Podium,19.99,Middle East,40,35-44,Social Media,Yes,2024-12-22 00:00:00,Found Alternative,18.7,17,373.81,9,Promoter,No
+SUB0744,2023-12-29 00:00:00,2023-12,Paddock Club,39.99,Europe,23,18-24,Paid Ad,No,,Not Churned,12.1,11,483.88,6,Detractor,No
+SUB0745,2024-01-18 00:00:00,2024-01,Podium,19.99,USA,40,35-44,Organic,No,,Not Churned,11.4,10,227.89,4,Detractor,No
+SUB0746,2023-09-07 00:00:00,2023-09,Podium,19.99,Europe,32,25-34,Paid Ad,No,,Not Churned,15.8,15,315.84,8,Passive,No
+SUB0747,2024-12-01 00:00:00,2024-12,Pit Lane,9.99,Europe,27,25-34,Organic,No,,Not Churned,1,0,9.99,6,Detractor,Yes
+SUB0748,2024-10-27 00:00:00,2024-10,Pit Lane,9.99,USA,40,35-44,Referral,No,,Not Churned,2.1,1,20.98,6,Detractor,Yes
+SUB0749,2024-01-24 00:00:00,2024-01,Paddock Club,39.99,USA,31,25-34,Organic,No,,Not Churned,11.2,10,447.89,6,Detractor,No
+SUB0750,2024-10-14 00:00:00,2024-10,Pit Lane,9.99,USA,28,25-34,Referral,Yes,2024-11-23 00:00:00,Too Expensive,1.3,0,12.99,6,Detractor,No
+SUB0751,2024-05-26 00:00:00,2024-05,Pit Lane,9.99,UAE,30,25-34,Paid Ad,No,,Not Churned,7.2,6,71.93,6,Detractor,No
+SUB0752,2023-12-06 00:00:00,2023-12,Podium,19.99,Asia,41,35-44,Social Media,No,,Not Churned,12.8,12,255.87,7,Passive,No
+SUB0753,2023-04-08 00:00:00,2023-04,Pit Lane,9.99,Europe,40,35-44,Referral,No,,Not Churned,20.8,20,207.79,8,Passive,No
+SUB0754,2023-08-24 00:00:00,2023-08,Pit Lane,9.99,Europe,32,25-34,Organic,Yes,2024-12-10 00:00:00,Technical Issues,15.6,14,155.84,4,Detractor,No
+SUB0755,2024-05-01 00:00:00,2024-05,Podium,19.99,USA,30,25-34,Social Media,Yes,2024-06-19 00:00:00,Found Alternative,1.6,0,31.98,9,Promoter,No
+SUB0756,2024-07-10 00:00:00,2024-07,Podium,19.99,USA,47,45-54,Paid Ad,No,,Not Churned,5.7,4,113.94,5,Detractor,Yes
+SUB0757,2023-11-19 00:00:00,2023-11,Podium,19.99,Europe,51,45-54,Paid Ad,Yes,2024-04-03 00:00:00,Technical Issues,4.5,3,89.96,6,Detractor,No
+SUB0758,2023-05-28 00:00:00,2023-05,Podium,19.99,UAE,32,25-34,Paid Ad,No,,Not Churned,19.2,18,383.81,5,Detractor,No
+SUB0759,2024-02-12 00:00:00,2024-02,Podium,19.99,Europe,46,45-54,Organic,No,,Not Churned,10.6,9,211.89,7,Passive,No
+SUB0760,2024-07-31 00:00:00,2024-07,Pit Lane,9.99,Europe,43,35-44,Organic,Yes,2024-12-14 00:00:00,No Time,4.5,3,44.96,7,Passive,No
+SUB0761,2024-11-24 00:00:00,2024-11,Pit Lane,9.99,USA,35,35-44,Referral,No,,Not Churned,1.2,0,11.99,4,Detractor,No
+SUB0762,2023-05-24 00:00:00,2023-05,Podium,19.99,Europe,22,18-24,Social Media,No,,Not Churned,19.3,18,385.81,9,Promoter,No
+SUB0763,2023-03-22 00:00:00,2023-03,Podium,19.99,Europe,18,18-24,Social Media,No,,Not Churned,21.4,20,427.79,5,Detractor,No
+SUB0764,2023-02-24 00:00:00,2023-02,Paddock Club,39.99,Europe,34,25-34,Paid Ad,Yes,2023-11-18 00:00:00,Too Expensive,8.8,7,351.91,8,Passive,No
+SUB0765,2023-12-15 00:00:00,2023-12,Pit Lane,9.99,UAE,20,18-24,Referral,No,,Not Churned,12.5,11,124.88,6,Detractor,No
+SUB0766,2024-09-01 00:00:00,2024-09,Podium,19.99,Latin America,21,18-24,Referral,No,,Not Churned,4,3,79.96,4,Detractor,No
+SUB0767,2023-01-31 00:00:00,2023-01,Pit Lane,9.99,Asia,43,35-44,Referral,No,,Not Churned,23,22,229.77,4,Detractor,No
+SUB0768,2024-04-06 00:00:00,2024-04,Pit Lane,9.99,USA,34,25-34,Paid Ad,No,,Not Churned,8.8,7,87.91,6,Detractor,No
+SUB0769,2024-01-20 00:00:00,2024-01,Pit Lane,9.99,USA,18,18-24,Organic,No,,Not Churned,11.4,10,113.89,9,Promoter,No
+SUB0770,2024-11-07 00:00:00,2024-11,Pit Lane,9.99,Europe,35,35-44,Referral,No,,Not Churned,1.8,0,17.98,5,Detractor,No
+SUB0771,2023-10-30 00:00:00,2023-10,Pit Lane,9.99,UAE,38,35-44,Organic,No,,Not Churned,14.1,13,140.86,6,Detractor,No
+SUB0772,2023-03-26 00:00:00,2023-03,Podium,19.99,Europe,24,18-24,Social Media,Yes,2024-05-18 00:00:00,Lack of Content,13.8,12,275.86,7,Passive,No
+SUB0773,2024-02-03 00:00:00,2024-02,Podium,19.99,Middle East,24,18-24,Referral,No,,Not Churned,10.9,10,217.89,6,Detractor,No
+SUB0774,2023-01-06 00:00:00,2023-01,Pit Lane,9.99,Europe,35,35-44,Organic,No,,Not Churned,23.8,23,237.76,9,Promoter,No
+SUB0775,2023-10-04 00:00:00,2023-10,Podium,19.99,UAE,39,35-44,Referral,Yes,2023-12-17 00:00:00,Lack of Content,2.4,1,47.98,7,Passive,No
+SUB0776,2024-03-17 00:00:00,2024-03,Podium,19.99,Europe,34,25-34,Social Media,No,,Not Churned,9.5,8,189.9,2,Detractor,No
+SUB0777,2024-02-22 00:00:00,2024-02,Podium,19.99,Middle East,42,35-44,Organic,Yes,2024-05-07 00:00:00,Found Alternative,2.5,1,49.97,7,Passive,No
+SUB0778,2024-07-21 00:00:00,2024-07,Paddock Club,39.99,UAE,25,25-34,Social Media,Yes,2024-11-11 00:00:00,No Time,3.7,2,147.96,7,Passive,No
+SUB0779,2023-01-13 00:00:00,2023-01,Pit Lane,9.99,USA,32,25-34,Referral,Yes,2024-03-15 00:00:00,Too Expensive,14,13,139.86,5,Detractor,No
+SUB0780,2024-07-26 00:00:00,2024-07,Paddock Club,39.99,Europe,26,25-34,Paid Ad,No,,Not Churned,5.2,4,207.95,7,Passive,No
+SUB0781,2024-08-08 00:00:00,2024-08,Podium,19.99,Asia,40,35-44,Organic,No,,Not Churned,4.8,3,95.95,6,Detractor,No
+SUB0782,2023-06-23 00:00:00,2023-06,Podium,19.99,Asia,34,25-34,Organic,Yes,2024-05-26 00:00:00,Found Alternative,11.1,10,221.89,9,Promoter,No
+SUB0783,2024-05-19 00:00:00,2024-05,Pit Lane,9.99,Latin America,20,18-24,Organic,Yes,2024-07-30 00:00:00,No Time,2.4,1,23.98,7,Passive,No
+SUB0784,2023-10-10 00:00:00,2023-10,Podium,19.99,USA,32,25-34,Paid Ad,No,,Not Churned,14.7,13,293.85,6,Detractor,No
+SUB0785,2023-03-20 00:00:00,2023-03,Podium,19.99,USA,26,25-34,Paid Ad,No,,Not Churned,21.4,20,427.79,7,Passive,No
+SUB0786,2024-10-02 00:00:00,2024-10,Pit Lane,9.99,Europe,27,25-34,Paid Ad,No,,Not Churned,3,2,29.97,4,Detractor,No
+SUB0787,2024-04-13 00:00:00,2024-04,Pit Lane,9.99,Europe,18,18-24,Organic,Yes,2024-07-29 00:00:00,Too Expensive,3.5,2,34.97,5,Detractor,No
+SUB0788,2024-02-10 00:00:00,2024-02,Podium,19.99,Europe,44,35-44,Organic,No,,Not Churned,10.7,9,213.89,10,Promoter,No
+SUB0789,2023-12-04 00:00:00,2023-12,Paddock Club,39.99,USA,47,45-54,Social Media,No,,Not Churned,12.9,12,515.87,9,Promoter,No
+SUB0790,2024-10-28 00:00:00,2024-10,Pit Lane,9.99,Middle East,27,25-34,Social Media,No,,Not Churned,2.1,1,20.98,6,Detractor,Yes
+SUB0791,2023-11-25 00:00:00,2023-11,Pit Lane,9.99,Europe,18,18-24,Paid Ad,No,,Not Churned,13.2,12,131.87,6,Detractor,No
+SUB0792,2024-05-05 00:00:00,2024-05,Pit Lane,9.99,Latin America,38,35-44,Organic,Yes,2024-09-13 00:00:00,Found Alternative,4.3,3,42.96,2,Detractor,No
+SUB0793,2023-10-26 00:00:00,2023-10,Pit Lane,9.99,UAE,22,18-24,Organic,No,,Not Churned,14.2,13,141.86,9,Promoter,No
+SUB0794,2024-08-12 00:00:00,2024-08,Pit Lane,9.99,Europe,22,18-24,Paid Ad,No,,Not Churned,4.6,3,45.95,5,Detractor,No
+SUB0795,2023-10-15 00:00:00,2023-10,Pit Lane,9.99,Latin America,23,18-24,Organic,No,,Not Churned,14.6,13,145.85,8,Passive,No
+SUB0796,2023-04-27 00:00:00,2023-04,Pit Lane,9.99,Europe,34,25-34,Paid Ad,No,,Not Churned,20.2,19,201.8,5,Detractor,No
+SUB0797,2024-07-12 00:00:00,2024-07,Podium,19.99,USA,23,18-24,Referral,Yes,2024-12-29 00:00:00,Too Expensive,5.6,4,111.94,4,Detractor,No
+SUB0798,2024-04-17 00:00:00,2024-04,Podium,19.99,Latin America,31,25-34,Paid Ad,No,,Not Churned,8.5,7,169.92,7,Passive,No
+SUB0799,2023-10-26 00:00:00,2023-10,Pit Lane,9.99,Europe,26,25-34,Referral,No,,Not Churned,14.2,13,141.86,8,Passive,Yes
+SUB0800,2024-02-23 00:00:00,2024-02,Podium,19.99,Europe,34,25-34,Organic,No,,Not Churned,10.2,9,203.9,8,Passive,No
