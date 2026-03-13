@@ -30,7 +30,7 @@ GITHUB_URL = (
     "data/PitWall_Analytics_Cleaned.xlsx"
 )
 
-_HEADER_ROW = 2
+_HEADER_ROW = 0
 
 
 # ── Excel Loader ──────────────────────────────────
