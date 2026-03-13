@@ -4,139 +4,97 @@ data_generator.py
 Loads the real PitWall_Analytics_Cleaned.xlsx dataset and returns three
 clean, typed DataFrames.
 
-Expected repo structure
-  app.py
-  data_generator.py
-  data/
-    PitWall_Analytics_Cleaned.xlsx
+The file must live at:   data/PitWall_Analytics_Cleaned.xlsx
+relative to this script (i.e. inside the repo root in a "data" folder).
+
+If running on Streamlit Cloud and the local file is somehow missing,
+it falls back to GITHUB_URL below.  Make sure to update GITHUB_URL with
+your actual GitHub username and repo name before deploying.
 
 Sheets used
-  • Subscribers
-  • Engagement Sessions
-  • Revenue MRR
+  • Subscribers            800 rows × 18 cols
+  • Engagement Sessions  29,240 rows × 10 cols
+  • Revenue MRR             72 rows ×  9 cols
 """
 
+from __future__ import annotations
 import io
 from pathlib import Path
 import pandas as pd
 import numpy as np
 
-# ── Paths ─────────────────────────────────────────
-_HERE = Path(__file__).parent
+# ── Paths ─────────────────────────────────────────────────────────────────────
+_HERE      = Path(__file__).parent
+
+# The Excel file must be committed inside a "data/" folder in your repo.
 LOCAL_XLSX = _HERE / "data" / "PitWall_Analytics_Cleaned.xlsx"
 
+# !! Update YOUR_USERNAME and YOUR_REPO before deploying to Streamlit Cloud !!
+# Example: "https://raw.githubusercontent.com/nivedhitha/F1---PitWall/main/data/PitWall_Analytics_Cleaned.xlsx"
 GITHUB_URL = (
-    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/"
-    "data/PitWall_Analytics_Cleaned.xlsx"
+    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main"
+    "/data/PitWall_Analytics_Cleaned.xlsx"
 )
 
-_HEADER_ROW = 0
+_HEADER_ROW = 2     # The Excel file has real headers on row 3 (0-indexed = 2)
 
 
-# ── Excel Loader ──────────────────────────────────
-def _open_excel():
+def _open_excel() -> dict[str, pd.DataFrame]:
+    """Open the workbook — local first, GitHub fallback."""
     if LOCAL_XLSX.exists():
-        return pd.read_excel(
-            LOCAL_XLSX,
-            sheet_name=None,
-            header=_HEADER_ROW,
-            engine="openpyxl"
-        )
-
+        return pd.read_excel(LOCAL_XLSX, sheet_name=None, header=_HEADER_ROW)
+    # Fallback: fetch from GitHub (only used on Streamlit Cloud if local file is missing)
     import urllib.request
-    with urllib.request.urlopen(GITHUB_URL) as resp:
-        return pd.read_excel(
-            io.BytesIO(resp.read()),
-            sheet_name=None,
-            header=_HEADER_ROW,
-            engine="openpyxl"
-        )
+    try:
+        with urllib.request.urlopen(GITHUB_URL, timeout=30) as resp:
+            return pd.read_excel(
+                io.BytesIO(resp.read()), sheet_name=None, header=_HEADER_ROW
+            )
+    except Exception as exc:
+        raise FileNotFoundError(
+            f"Could not find the data file locally at '{LOCAL_XLSX}' "
+            f"and the GitHub fallback also failed.\n"
+            f"Make sure 'data/PitWall_Analytics_Cleaned.xlsx' is committed to your repo.\n"
+            f"Original error: {exc}"
+        ) from exc
 
 
-# ── Public Loader ─────────────────────────────────
-def load_data():
+def load_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """
     Returns
     -------
-    subs  : subscriber-level DataFrame
-    sess  : session-level DataFrame
-    mrr   : monthly MRR summary
+    subs  : subscriber-level DataFrame   (800 rows)
+    sess  : session-level DataFrame      (29 240 rows)
+    mrr   : monthly MRR summary          (72 rows)
     """
-
-    xl = _open_excel()
-
-    required_sheets = [
-        "Subscribers",
-        "Engagement Sessions",
-        "Revenue MRR"
-    ]
-
-    missing = [s for s in required_sheets if s not in xl]
-
-    if missing:
-        raise ValueError(
-            f"Missing expected sheet(s): {missing}. Found: {list(xl.keys())}"
-        )
-
+    xl   = _open_excel()
     subs = _clean_subscribers(xl["Subscribers"].copy())
     sess = _clean_sessions(xl["Engagement Sessions"].copy())
-    mrr = _clean_mrr(xl["Revenue MRR"].copy())
-
+    mrr  = _clean_mrr(xl["Revenue MRR"].copy())
     return subs, sess, mrr
 
 
-# ── Cleaning Functions ────────────────────────────
-def _clean_subscribers(df):
-    df.columns = [str(c).strip() for c in df.columns]
+# ── Private cleaners ──────────────────────────────────────────────────────────
 
+def _clean_subscribers(df: pd.DataFrame) -> pd.DataFrame:
+    df.columns = [c.strip() for c in df.columns]
     df["Signup Date"] = pd.to_datetime(df["Signup Date"], errors="coerce")
-    df["Churn Date"] = pd.to_datetime(df["Churn Date"], errors="coerce")
-
+    df["Churn Date"]  = pd.to_datetime(df["Churn Date"],  errors="coerce")
     df["Churn Reason"] = df["Churn Reason"].fillna("Not Churned")
-
-    df["churn_flag"] = (df["Churned"] == "Yes").astype(int)
-
+    df["churn_flag"]  = (df["Churned"] == "Yes").astype(int)
     return df
 
 
-def _clean_sessions(df):
-    df.columns = [str(c).strip() for c in df.columns]
-
+def _clean_sessions(df: pd.DataFrame) -> pd.DataFrame:
+    df.columns = [c.strip() for c in df.columns]
     df["Session Date"] = pd.to_datetime(df["Session Date"], errors="coerce")
-
-    df["Is Weekend"] = (
-        df["Is Weekend"]
-        .astype(str)
-        .str.strip()
-        .str.lower()
-        .map({
-            "true": True,
-            "false": False,
-            "yes": True,
-            "no": False,
-            "1": True,
-            "0": False
-        })
-    )
-
-    df["Engagement Score"] = pd.to_numeric(
-        df["Engagement Score"], errors="coerce"
-    )
-
-    df["Session Duration Min"] = pd.to_numeric(
-        df["Session Duration Min"], errors="coerce"
-    )
-
+    df["Is Weekend"]   = df["Is Weekend"].astype(bool)
+    df["Engagement Score"]     = pd.to_numeric(df["Engagement Score"],     errors="coerce")
+    df["Session Duration Min"] = pd.to_numeric(df["Session Duration Min"], errors="coerce")
     return df
 
 
-def _clean_mrr(df):
-    df.columns = [str(c).strip() for c in df.columns]
-
-    df["Month"] = pd.to_datetime(
-        df["Month"],
-        format="%Y-%m",
-        errors="coerce"
-    )
-
+def _clean_mrr(df: pd.DataFrame) -> pd.DataFrame:
+    df.columns = [c.strip() for c in df.columns]
+    df["Month"] = pd.to_datetime(df["Month"], format="%Y-%m", errors="coerce")
     return df
